@@ -330,6 +330,7 @@ class TreeMap extends Component {
                             height={this.props.height}
                             defaults={this.defaults}
                             onMouseOver={this.handleMouseOver}
+                            onMouseLeave={this.handleMouseLeave}
                             
                             onClick={this.handleClick}
                             innerRef={el => this.domRef = el}>
