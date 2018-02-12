@@ -1,0 +1,35 @@
+{
+  "name": "bugs-react",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://drewsynan.github.io/bugs",
+  "dependencies": {
+    "Bug": "git://github.com/Auz/Bug.git",
+    "classnames": "^2.2.5",
+    "crypto-js": "^3.1.9-1",
+    "d3": "^4.13.0",
+    "datalib": "^1.8.0",
+    "gh-pages": "^1.1.0",
+    "is-subset": "^0.1.1",
+    "lodash": "^4.17.5",
+    "lodash-joins": "^2.0.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "react-scripts": "1.1.0",
+    "react-select": "^1.2.1",
+    "redux": "^3.7.2",
+    "source-sans-pro": "git://github.com/adobe-fonts/source-sans-pro.git#release",
+    "source-serif-pro": "git://github.com/adobe-fonts/source-serif-pro.git#release",
+    "styled-components": "^3.1.6",
+    "throttle-debounce": "^1.0.1"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

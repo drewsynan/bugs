@@ -1,0 +1,40 @@
+id,order,order_common,value
+"house.Acari (mites, ticks)",Acari,"mites, ticks",156
+house.Araneae (spiders),Araneae,spiders,1427
+house.Blattodea (cockroaches),Blattodea,cockroaches,185
+house.Callipodida (crested millipedes),Callipodida,crested millipedes,10
+house.Coleoptera (beetles),Coleoptera,beetles,1645
+house.Collembola (springtails),Collembola,springtails,179
+house.Decapoda (crustaceans),Decapoda,crustaceans,2
+house.Dermaptera (earwigs),Dermaptera,earwigs,47
+house.Diplopoda (millipedes),Diplopoda,millipedes,3
+house.Diptera (flies),Diptera,flies,2671
+house.Ephemeroptera (Mayflies),Ephemeroptera,Mayflies,1
+house.Geophilomorpha (soil centipedes),Geophilomorpha,soil centipedes,4
+house.Hemiptera (true bugs),Hemiptera,true bugs,441
+"house.Hymenoptera (bees, wasps, ants)",Hymenoptera,"bees, wasps, ants",1372
+"house.Isopoda (woodlice, pillbugs, roly-poly's)",Isopoda,"woodlice, pillbugs, roly-poly's",205
+house.Isoptera (termites),Isoptera,termites,30
+house.Julida (millipedes),Julida,millipedes,31
+"house.Lepidoptera (moths, butterflies)",Lepidoptera,"moths, butterflies",272
+house.Lithobiomorpha (stone centipedes),Lithobiomorpha,stone centipedes,12
+house.Microcoryphia (bristletails),Microcoryphia,bristletails,14
+house.Neuroptera (lacewings),Neuroptera,lacewings,44
+house.No specimens,No specimens,,0
+house.Odonata (dragonflies and damselflies),Odonata,dragonflies and damselflies,1
+house.Opiliones (harvestmen),Opiliones,harvestmen,15
+"house.Orthoptera (grasshoppers, etc)",Orthoptera,"grasshoppers, etc",116
+house.Plecoptera (stoneflies),Plecoptera,stoneflies,3
+house.Polydesmida (flat-backed millipedes),Polydesmida,flat-backed millipedes,121
+house.Pseudoscorpiones (pseudoscorpions),Pseudoscorpiones,pseudoscorpions,16
+"house.Psocodea (barklice, booklice, parasitic lice)",Psocodea,"barklice, booklice, parasitic lice",359
+house.Scolopendromorpha (tropical centipedes),Scolopendromorpha,tropical centipedes,12
+house.Scutigeromorpha (house centipedes),Scutigeromorpha,house centipedes,41
+house.Siphonaptera (fleas),Siphonaptera,fleas,8
+house.Spirobolida (round-backed millipedes),Spirobolida,round-backed millipedes,16
+house.Spirostreptida (millipedes),Spirostreptida,millipedes,1
+house.Thysanoptera (thrips),Thysanoptera,thrips,54
+house.Trichoptera (caddisflies),Trichoptera,caddisflies,6
+house.Un ID order,Un ID order,,2
+house.Zygentoma (silverfish),Zygentoma,silverfish,134
+house,,,

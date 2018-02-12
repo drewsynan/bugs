@@ -1,0 +1,63 @@
+.axis-label {
+    font-size: 10px;
+    text-transform: uppercase;
+    fill: #ccc;
+}
+
+.axis path.domain {
+    stroke: #ccc;
+}
+
+.axis .tick line {
+    stroke: #ccc;
+}
+
+.axis .tick text {
+    fill: #ccc;
+}
+
+.axis text {
+    cursor: default;
+}
+
+.point-label {
+    font-size: 10px;
+    fill: #333;
+    display: none;
+    cursor: default;
+}
+
+.point-label.room {
+    display: block;
+    font-size: 8px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.point-label.active {
+    display: block;
+}
+
+.point-dot {
+    stroke: rgba(0,0,0, 0.3);
+    fill-opacity: 0.3;
+    cursor: pointer;
+}
+
+.point-dot.selected {
+    fill-opacity: 1;
+    stroke: rgba(0, 0, 0, 0.8);
+    stroke-width: 2;
+}
+
+.point-dot.active {
+    /*fill: rgb(227, 118, 194);*/
+    r: 4.5;
+    stroke: #333;
+    stroke-width: 1;
+    fill-opacity: 1;
+}
+
+.point-dot.active.selected {
+    stroke-width: 2;
+}

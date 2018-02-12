@@ -1,0 +1,131 @@
+.App {
+  /*text-align: center;*/
+  font-family: 'Source Sans Pro';
+  margin-top: 70px;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+
+.section {
+  margin-bottom: 50px;
+}
+
+a:link, a:visited {
+  color: #333;
+}
+
+p {
+  font-family: 'Source Serif Pro';
+  color: #333;
+  line-height: 1.66;
+  max-width: 600px;
+  font-size: 17px;
+}
+
+p.instructions {
+  font-family: 'Source Sans Pro';
+  line-height: 1.33;
+  font-size: 12px;
+}
+
+p.blockquote {
+  font-family: 'Source Sans Pro';
+  font-size: 14px;
+  line-height: 2;
+  margin-left: 45px;
+  max-width: 550px;
+}
+
+.opening {
+  font-family: 'Source Serif Pro';
+  font-weight: 400;
+  font-size: 68px;
+  margin: 0;
+  padding: 0;
+  max-width: 600px;
+  margin-bottom: -20px;
+}
+
+.sidebar {
+  position: fixed;
+  height: calc(100% - 70px);
+  width: 350px;
+  z-index: 1;
+  background-color: white;
+}
+
+.main-content {
+  margin-left: 350px;
+  padding-left: 40px;
+}
+
+.heading {
+  font-family: 'Source Serif Pro';
+  font-size: 18px;
+  border-bottom: 1px solid #333;
+  padding-bottom: 10px;
+}
+
+.InfoAndSelector {
+  padding-left: 20px;
+  padding-right: 20px;
+  max-height: calc(100% - 80px);
+  overflow: hidden;
+}
+
+.SelectionBar {
+  position: absolute;
+  bottom: 30px;
+  width: calc(350px - 40px);
+}
+
+.Treemaps {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.subhead {
+  margin: 0;
+  margin-bottom: 2px;
+  padding: 0;
+  font-weight: 600;
+  font-size: 10px;
+  color: #333;
+  text-transform: uppercase;
+}
+
+.FamilyTreemap {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.OrderTreemap {
+  display: inline-block;
+  margin-left: 30px;
+  vertical-align: top;
+}
+
+
+.OrderTreemap .ResetButton {
+  margin-top: 20px;
+  height: 40px;
+}

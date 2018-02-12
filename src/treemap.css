@@ -1,0 +1,26 @@
+.tree-map {
+    position: realtive;
+}
+
+.tree-map .node {
+  box-sizing: border-box;
+  position: absolute;
+  overflow: hidden;
+}
+
+.tree-map .node:hover {
+    opacity: 0.2;
+    cursor: default;
+}
+
+.tree-map .node-label {
+  padding: 4px;
+  line-height: 1em;
+  white-space: pre;
+}
+
+.tree-map .node-value {
+  color: rgba(0,0,0,0.8);
+  font-size: 9px;
+  margin-top: 1px;
+}
