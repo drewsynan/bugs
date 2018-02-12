@@ -1,0 +1,1198 @@
+id,room,order,order_common,family,family_common,value,absent,room_total,order_room_total
+"house.attic.Acari (mites, ticks).Un ID family",attic,Acari,"mites, ticks",Un ID family,,2,36,38,2
+house.attic.Araneae (spiders).Agelenidae (funnel weavers),attic,Araneae,spiders,Agelenidae,funnel weavers,1,37,38,18
+"house.attic.Araneae (spiders).Corinnidae (antmimics, ground spiders)",attic,Araneae,spiders,Corinnidae,"antmimics, ground spiders",2,36,38,18
+house.attic.Araneae (spiders).Lycosidae (wolf spiders),attic,Araneae,spiders,Lycosidae,wolf spiders,1,37,38,18
+house.attic.Araneae (spiders).Oecobiidae (wall spiders),attic,Araneae,spiders,Oecobiidae,wall spiders,1,37,38,18
+house.attic.Araneae (spiders).Oonopidae (goblin spiders),attic,Araneae,spiders,Oonopidae,goblin spiders,2,36,38,18
+house.attic.Araneae (spiders).Pholcidae (cellar spiders),attic,Araneae,spiders,Pholcidae,cellar spiders,3,35,38,18
+house.attic.Araneae (spiders).Salticidae (jumping spider),attic,Araneae,spiders,Salticidae,jumping spider,1,37,38,18
+house.attic.Araneae (spiders).Theridiidae (cobweb spiders),attic,Araneae,spiders,Theridiidae,cobweb spiders,15,23,38,18
+house.attic.Araneae (spiders).Thomisidae (crab spiders),attic,Araneae,spiders,Thomisidae,crab spiders,1,37,38,18
+house.attic.Araneae (spiders).Un ID family,attic,Araneae,spiders,Un ID family,,1,37,38,18
+house.attic.Blattodea (cockroaches).Blattellidae (cockroaches),attic,Blattodea,cockroaches,Blattellidae,cockroaches,1,37,38,7
+house.attic.Blattodea (cockroaches).Blattidae (cockroaches),attic,Blattodea,cockroaches,Blattidae,cockroaches,6,32,38,7
+house.attic.Coleoptera (beetles).Anthicidae (antlike flower beetles),attic,Coleoptera,beetles,Anthicidae,antlike flower beetles,1,37,38,17
+house.attic.Coleoptera (beetles).Carabidae (ground beetles),attic,Coleoptera,beetles,Carabidae,ground beetles,3,35,38,17
+house.attic.Coleoptera (beetles).Coccinellidae (ladybugs),attic,Coleoptera,beetles,Coccinellidae,ladybugs,2,36,38,17
+house.attic.Coleoptera (beetles).Curculionidae (snout & bark beetles),attic,Coleoptera,beetles,Curculionidae,snout & bark beetles,1,37,38,17
+house.attic.Coleoptera (beetles).Dermestidae (carpet beetles),attic,Coleoptera,beetles,Dermestidae,carpet beetles,10,28,38,17
+house.attic.Coleoptera (beetles).Elateridae (click beetles),attic,Coleoptera,beetles,Elateridae,click beetles,2,36,38,17
+house.attic.Coleoptera (beetles).Lampyridae (fireflies),attic,Coleoptera,beetles,Lampyridae,fireflies,1,37,38,17
+house.attic.Coleoptera (beetles).Mordellidae (tumbling flower beetles),attic,Coleoptera,beetles,Mordellidae,tumbling flower beetles,1,37,38,17
+house.attic.Coleoptera (beetles).Mycetophagidae (hairy fungus beetles),attic,Coleoptera,beetles,Mycetophagidae,hairy fungus beetles,1,37,38,17
+house.attic.Coleoptera (beetles).Ptilodactylidae (toe winged beetles),attic,Coleoptera,beetles,Ptilodactylidae,toe winged beetles,1,37,38,17
+house.attic.Coleoptera (beetles).Scarabaeidae (scarab beetles),attic,Coleoptera,beetles,Scarabaeidae,scarab beetles,2,36,38,17
+house.attic.Coleoptera (beetles).Tenebrionidae (darkling beetles),attic,Coleoptera,beetles,Tenebrionidae,darkling beetles,2,36,38,17
+house.attic.Coleoptera (beetles).Un ID family,attic,Coleoptera,beetles,Un ID family,,3,35,38,17
+house.attic.Collembola (springtails).Entomobryidae (slender springtails),attic,Collembola,springtails,Entomobryidae,slender springtails,2,36,38,2
+house.attic.Diptera (flies).Cecidomyiidae (gall midges),attic,Diptera,flies,Cecidomyiidae,gall midges,4,34,38,7
+house.attic.Diptera (flies).Muscidae (house flies),attic,Diptera,flies,Muscidae,house flies,1,37,38,7
+house.attic.Diptera (flies).Sphaeroceridae (lesser dung flies),attic,Diptera,flies,Sphaeroceridae,lesser dung flies,1,37,38,7
+house.attic.Diptera (flies).Tipulidae (large crane flies),attic,Diptera,flies,Tipulidae,large crane flies,1,37,38,7
+house.attic.Diptera (flies).Un ID family,attic,Diptera,flies,Un ID family,,1,37,38,7
+house.attic.Hemiptera (true bugs).Aphididae (aphids),attic,Hemiptera,true bugs,Aphididae,aphids,1,37,38,3
+house.attic.Hemiptera (true bugs).Aradidae (flat bugs),attic,Hemiptera,true bugs,Aradidae,flat bugs,1,37,38,3
+house.attic.Hemiptera (true bugs).Coreidae (leaf-footed bugs),attic,Hemiptera,true bugs,Coreidae,leaf-footed bugs,1,37,38,3
+house.attic.Hemiptera (true bugs).Cydnidae (burrowing bugs),attic,Hemiptera,true bugs,Cydnidae,burrowing bugs,1,37,38,3
+house.attic.Hemiptera (true bugs).Pentatomidae (stink bugs),attic,Hemiptera,true bugs,Pentatomidae,stink bugs,2,36,38,3
+"house.attic.Hymenoptera (bees, wasps, ants).Formicidae (ants)",attic,Hymenoptera,"bees, wasps, ants",Formicidae,ants,18,20,38,19
+"house.attic.Hymenoptera (bees, wasps, ants).Halictidae (sweat bees)",attic,Hymenoptera,"bees, wasps, ants",Halictidae,sweat bees,1,37,38,19
+"house.attic.Hymenoptera (bees, wasps, ants).Ichneumonidae (scorpion wasps)",attic,Hymenoptera,"bees, wasps, ants",Ichneumonidae,scorpion wasps,1,37,38,19
+"house.attic.Hymenoptera (bees, wasps, ants).Megachilidae (leaf cutter & mason bees)",attic,Hymenoptera,"bees, wasps, ants",Megachilidae,leaf cutter & mason bees,1,37,38,19
+"house.attic.Hymenoptera (bees, wasps, ants).Pompilidae (spider wasps)",attic,Hymenoptera,"bees, wasps, ants",Pompilidae,spider wasps,1,37,38,19
+"house.attic.Hymenoptera (bees, wasps, ants).Sphecidae (thread-waisted wasps)",attic,Hymenoptera,"bees, wasps, ants",Sphecidae,thread-waisted wasps,1,37,38,19
+"house.attic.Hymenoptera (bees, wasps, ants).Tiphiidae (tiphiid wasps)",attic,Hymenoptera,"bees, wasps, ants",Tiphiidae,tiphiid wasps,1,37,38,19
+"house.attic.Hymenoptera (bees, wasps, ants).Un ID family",attic,Hymenoptera,"bees, wasps, ants",Un ID family,,1,37,38,19
+"house.attic.Hymenoptera (bees, wasps, ants).Vespidae (yellowjackets, etc)",attic,Hymenoptera,"bees, wasps, ants",Vespidae,"yellowjackets, etc",2,36,38,19
+"house.attic.Isopoda (woodlice, pillbugs, roly-poly's).Armadillidiidae (pillbugs)",attic,Isopoda,"woodlice, pillbugs, roly-poly's",Armadillidiidae,pillbugs,2,36,38,2
+house.attic.No specimens.No specimens,attic,No specimens,,No specimens,,6,32,38,6
+house.attic.Opiliones (harvestmen).Un ID family,attic,Opiliones,harvestmen,Un ID family,,1,37,38,1
+"house.attic.Orthoptera (grasshoppers, etc).Mogoplistidae (scaly crickets)",attic,Orthoptera,"grasshoppers, etc",Mogoplistidae,scaly crickets,1,37,38,1
+house.attic.Polydesmida (flat-backed millipedes).Paradoxosomatidae (millipedes),attic,Polydesmida,flat-backed millipedes,Paradoxosomatidae,millipedes,1,37,38,2
+house.attic.Polydesmida (flat-backed millipedes).Un ID family,attic,Polydesmida,flat-backed millipedes,Un ID family,,1,37,38,2
+"house.attic.Psocodea (barklice, booklice, parasitic lice).Lepidopsocidae (scaly winged barklice)",attic,Psocodea,"barklice, booklice, parasitic lice",Lepidopsocidae,scaly winged barklice,1,37,38,14
+"house.attic.Psocodea (barklice, booklice, parasitic lice).Liposcelididae (booklice)",attic,Psocodea,"barklice, booklice, parasitic lice",Liposcelididae,booklice,13,25,38,14
+"house.attic.Psocodea (barklice, booklice, parasitic lice).Stenopsocidae (narrow barklice)",attic,Psocodea,"barklice, booklice, parasitic lice",Stenopsocidae,narrow barklice,1,37,38,14
+"house.attic.Psocodea (barklice, booklice, parasitic lice).Un ID family",attic,Psocodea,"barklice, booklice, parasitic lice",Un ID family,,2,36,38,14
+house.attic.Thysanoptera (thrips).Thripidae (thrips),attic,Thysanoptera,thrips,Thripidae,thrips,1,37,38,1
+house.attic.Un ID order.Un ID family,attic,Un ID order,,Un ID family,,1,37,38,1
+house.attic.Zygentoma (silverfish).Lepismatidae (silverfish),attic,Zygentoma,silverfish,Lepismatidae,silverfish,8,30,38,8
+"house.basement.Acari (mites, ticks).Galumnidae (mites)",basement,Acari,"mites, ticks",Galumnidae,mites,1,53,54,25
+"house.basement.Acari (mites, ticks).Oribatida (moss mites)",basement,Acari,"mites, ticks",Oribatida,moss mites,12,42,54,25
+"house.basement.Acari (mites, ticks).Tetranychidae (spider mites)",basement,Acari,"mites, ticks",Tetranychidae,spider mites,1,53,54,25
+"house.basement.Acari (mites, ticks).Un ID family",basement,Acari,"mites, ticks",Un ID family,,16,38,54,25
+house.basement.Araneae (spiders).Agelenidae (funnel weavers),basement,Araneae,spiders,Agelenidae,funnel weavers,11,43,54,50
+house.basement.Araneae (spiders).Anyphaenidae (ghost spiders),basement,Araneae,spiders,Anyphaenidae,ghost spiders,1,53,54,50
+house.basement.Araneae (spiders).Araneidae (orb weavers),basement,Araneae,spiders,Araneidae,orb weavers,1,53,54,50
+"house.basement.Araneae (spiders).Corinnidae (antmimics, ground spiders)",basement,Araneae,spiders,Corinnidae,"antmimics, ground spiders",5,49,54,50
+"house.basement.Araneae (spiders).Dysderidae (woodlouse hunters, cell spiders)",basement,Araneae,spiders,Dysderidae,"woodlouse hunters, cell spiders",2,52,54,50
+house.basement.Araneae (spiders).Gnaphosidae (ground spiders),basement,Araneae,spiders,Gnaphosidae,ground spiders,3,51,54,50
+house.basement.Araneae (spiders).Linyphiidae (sheetweb & dwarf spiders),basement,Araneae,spiders,Linyphiidae,sheetweb & dwarf spiders,2,52,54,50
+house.basement.Araneae (spiders).Lycosidae (wolf spiders),basement,Araneae,spiders,Lycosidae,wolf spiders,3,51,54,50
+house.basement.Araneae (spiders).Mimetidae (pirate spiders),basement,Araneae,spiders,Mimetidae,pirate spiders,1,53,54,50
+house.basement.Araneae (spiders).Miturgidae (prowling spiders),basement,Araneae,spiders,Miturgidae,prowling spiders,1,53,54,50
+house.basement.Araneae (spiders).Pholcidae (cellar spiders),basement,Araneae,spiders,Pholcidae,cellar spiders,21,33,54,50
+house.basement.Araneae (spiders).Pisauridae (nursery web spider),basement,Araneae,spiders,Pisauridae,nursery web spider,2,52,54,50
+house.basement.Araneae (spiders).Salticidae (jumping spider),basement,Araneae,spiders,Salticidae,jumping spider,2,52,54,50
+house.basement.Araneae (spiders).Scytodidae (spitting spider),basement,Araneae,spiders,Scytodidae,spitting spider,1,53,54,50
+house.basement.Araneae (spiders).Segestriidae (tube web spiders),basement,Araneae,spiders,Segestriidae,tube web spiders,2,52,54,50
+house.basement.Araneae (spiders).Theridiidae (cobweb spiders),basement,Araneae,spiders,Theridiidae,cobweb spiders,42,12,54,50
+house.basement.Araneae (spiders).Thomisidae (crab spiders),basement,Araneae,spiders,Thomisidae,crab spiders,1,53,54,50
+house.basement.Araneae (spiders).Uloboridae (cribellate orb weavers),basement,Araneae,spiders,Uloboridae,cribellate orb weavers,1,53,54,50
+house.basement.Araneae (spiders).Un ID family,basement,Araneae,spiders,Un ID family,,10,44,54,50
+house.basement.Blattodea (cockroaches).Blattellidae (cockroaches),basement,Blattodea,cockroaches,Blattellidae,cockroaches,3,51,54,18
+house.basement.Blattodea (cockroaches).Blattidae (cockroaches),basement,Blattodea,cockroaches,Blattidae,cockroaches,18,36,54,18
+house.basement.Blattodea (cockroaches).Un ID family,basement,Blattodea,cockroaches,Un ID family,,1,53,54,18
+house.basement.Callipodida (crested millipedes).Abacionidae (millipedes),basement,Callipodida,crested millipedes,Abacionidae,millipedes,3,51,54,3
+house.basement.Coleoptera (beetles).Anobiidae (death watch beetles),basement,Coleoptera,beetles,Anobiidae,death watch beetles,4,50,54,35
+house.basement.Coleoptera (beetles).Cantharidae (soldier beetles),basement,Coleoptera,beetles,Cantharidae,soldier beetles,1,53,54,35
+house.basement.Coleoptera (beetles).Carabidae (ground beetles),basement,Coleoptera,beetles,Carabidae,ground beetles,18,36,54,35
+house.basement.Coleoptera (beetles).Coccinellidae (ladybugs),basement,Coleoptera,beetles,Coccinellidae,ladybugs,1,53,54,35
+house.basement.Coleoptera (beetles).Curculionidae (snout & bark beetles),basement,Coleoptera,beetles,Curculionidae,snout & bark beetles,10,44,54,35
+house.basement.Coleoptera (beetles).Dermestidae (carpet beetles),basement,Coleoptera,beetles,Dermestidae,carpet beetles,12,42,54,35
+house.basement.Coleoptera (beetles).Elateridae (click beetles),basement,Coleoptera,beetles,Elateridae,click beetles,7,47,54,35
+house.basement.Coleoptera (beetles).Histeridae (clown beetles),basement,Coleoptera,beetles,Histeridae,clown beetles,1,53,54,35
+house.basement.Coleoptera (beetles).Lampyridae (fireflies),basement,Coleoptera,beetles,Lampyridae,fireflies,1,53,54,35
+house.basement.Coleoptera (beetles).Latridiidae (minute brown scavenger beetles),basement,Coleoptera,beetles,Latridiidae,minute brown scavenger beetles,1,53,54,35
+house.basement.Coleoptera (beetles).Lycidae (net-winged beetles),basement,Coleoptera,beetles,Lycidae,net-winged beetles,1,53,54,35
+house.basement.Coleoptera (beetles).Melyridae (soft winged flower beetles),basement,Coleoptera,beetles,Melyridae,soft winged flower beetles,1,53,54,35
+house.basement.Coleoptera (beetles).Mordellidae (tumbling flower beetles),basement,Coleoptera,beetles,Mordellidae,tumbling flower beetles,2,52,54,35
+house.basement.Coleoptera (beetles).Nitidulidae (sap beetles),basement,Coleoptera,beetles,Nitidulidae,sap beetles,2,52,54,35
+house.basement.Coleoptera (beetles).Passalidae (bess beetles),basement,Coleoptera,beetles,Passalidae,bess beetles,1,53,54,35
+house.basement.Coleoptera (beetles).Phalacridae (shining flower beetles),basement,Coleoptera,beetles,Phalacridae,shining flower beetles,1,53,54,35
+house.basement.Coleoptera (beetles).Ptiliidae (featherwing beetles),basement,Coleoptera,beetles,Ptiliidae,featherwing beetles,1,53,54,35
+house.basement.Coleoptera (beetles).Ptilodactylidae (toe winged beetles),basement,Coleoptera,beetles,Ptilodactylidae,toe winged beetles,2,52,54,35
+house.basement.Coleoptera (beetles).Scarabaeidae (scarab beetles),basement,Coleoptera,beetles,Scarabaeidae,scarab beetles,7,47,54,35
+house.basement.Coleoptera (beetles).Silvanidae (flat bark beetles),basement,Coleoptera,beetles,Silvanidae,flat bark beetles,5,49,54,35
+house.basement.Coleoptera (beetles).Staphylinidae (rove beetles),basement,Coleoptera,beetles,Staphylinidae,rove beetles,4,50,54,35
+house.basement.Coleoptera (beetles).Tenebrionidae (darkling beetles),basement,Coleoptera,beetles,Tenebrionidae,darkling beetles,9,45,54,35
+house.basement.Coleoptera (beetles).Throscidae (false metallic wood boring beetles),basement,Coleoptera,beetles,Throscidae,false metallic wood boring beetles,1,53,54,35
+house.basement.Coleoptera (beetles).Un ID family,basement,Coleoptera,beetles,Un ID family,,4,50,54,35
+house.basement.Collembola (springtails).Entomobryidae (slender springtails),basement,Collembola,springtails,Entomobryidae,slender springtails,11,43,54,14
+house.basement.Collembola (springtails).Isotomidae (elongate springtails),basement,Collembola,springtails,Isotomidae,elongate springtails,2,52,54,14
+house.basement.Collembola (springtails).Sminthuridae (globular springtails),basement,Collembola,springtails,Sminthuridae,globular springtails,1,53,54,14
+house.basement.Collembola (springtails).Tomoceridae (elongate bodied springtails),basement,Collembola,springtails,Tomoceridae,elongate bodied springtails,1,53,54,14
+house.basement.Collembola (springtails).Un ID family,basement,Collembola,springtails,Un ID family,,2,52,54,14
+house.basement.Dermaptera (earwigs).Anisolabididae (earwigs),basement,Dermaptera,earwigs,Anisolabididae,earwigs,5,49,54,9
+house.basement.Dermaptera (earwigs).Forficulidae (earwigs),basement,Dermaptera,earwigs,Forficulidae,earwigs,4,50,54,9
+house.basement.Diplopoda (millipedes).Un ID family,basement,Diplopoda,millipedes,Un ID family,,1,53,54,1
+house.basement.Diptera (flies).Calliphoridae (blow flies),basement,Diptera,flies,Calliphoridae,blow flies,3,51,54,27
+house.basement.Diptera (flies).Cecidomyiidae (gall midges),basement,Diptera,flies,Cecidomyiidae,gall midges,9,45,54,27
+house.basement.Diptera (flies).Chironomidae (non biting midges),basement,Diptera,flies,Chironomidae,non biting midges,2,52,54,27
+house.basement.Diptera (flies).Culicidae (mosquitoes),basement,Diptera,flies,Culicidae,mosquitoes,3,51,54,27
+house.basement.Diptera (flies).Dolichopodidae (longlegged flies),basement,Diptera,flies,Dolichopodidae,longlegged flies,2,52,54,27
+"house.basement.Diptera (flies).Drosophilidae (fruit flies, vinegar flies)",basement,Diptera,flies,Drosophilidae,"fruit flies, vinegar flies",3,51,54,27
+house.basement.Diptera (flies).Empididae (dance flies),basement,Diptera,flies,Empididae,dance flies,1,53,54,27
+house.basement.Diptera (flies).Fanniidae (Calyptrate flies),basement,Diptera,flies,Fanniidae,Calyptrate flies,1,53,54,27
+house.basement.Diptera (flies).Muscidae (house flies),basement,Diptera,flies,Muscidae,house flies,3,51,54,27
+house.basement.Diptera (flies).Mycetophilidae (fungus gnats),basement,Diptera,flies,Mycetophilidae,fungus gnats,5,49,54,27
+house.basement.Diptera (flies).Phoridae (scuttle flies),basement,Diptera,flies,Phoridae,scuttle flies,11,43,54,27
+house.basement.Diptera (flies).Psychodidae (sand & moth flies),basement,Diptera,flies,Psychodidae,sand & moth flies,5,49,54,27
+house.basement.Diptera (flies).Scatopsidae (minute black scavenger flies),basement,Diptera,flies,Scatopsidae,minute black scavenger flies,1,53,54,27
+house.basement.Diptera (flies).Sciaridae (dark winged fungus gnats),basement,Diptera,flies,Sciaridae,dark winged fungus gnats,12,42,54,27
+house.basement.Diptera (flies).Sphaeroceridae (lesser dung flies),basement,Diptera,flies,Sphaeroceridae,lesser dung flies,6,48,54,27
+house.basement.Diptera (flies).Stratiomyidae (soldier flies),basement,Diptera,flies,Stratiomyidae,soldier flies,1,53,54,27
+house.basement.Diptera (flies).Tipulidae (large crane flies),basement,Diptera,flies,Tipulidae,large crane flies,4,50,54,27
+house.basement.Diptera (flies).Trichoceridae (winter crane flies),basement,Diptera,flies,Trichoceridae,winter crane flies,1,53,54,27
+house.basement.Diptera (flies).Un ID family,basement,Diptera,flies,Un ID family,,5,49,54,27
+house.basement.Hemiptera (true bugs).Aphididae (aphids),basement,Hemiptera,true bugs,Aphididae,aphids,4,50,54,15
+house.basement.Hemiptera (true bugs).Aradidae (flat bugs),basement,Hemiptera,true bugs,Aradidae,flat bugs,1,53,54,15
+house.basement.Hemiptera (true bugs).Cicadellidae (leafhoppers),basement,Hemiptera,true bugs,Cicadellidae,leafhoppers,3,51,54,15
+house.basement.Hemiptera (true bugs).Cydnidae (burrowing bugs),basement,Hemiptera,true bugs,Cydnidae,burrowing bugs,2,52,54,15
+house.basement.Hemiptera (true bugs).Delphacidae (Delphacid planthoppers),basement,Hemiptera,true bugs,Delphacidae,Delphacid planthoppers,1,53,54,15
+house.basement.Hemiptera (true bugs).Derbidae (derbid planthopppers),basement,Hemiptera,true bugs,Derbidae,derbid planthopppers,1,53,54,15
+house.basement.Hemiptera (true bugs).Fulgoridae (fulgorid planthoppers),basement,Hemiptera,true bugs,Fulgoridae,fulgorid planthoppers,1,53,54,15
+house.basement.Hemiptera (true bugs).Phylloxeridae (plant parasitic hemipterans),basement,Hemiptera,true bugs,Phylloxeridae,plant parasitic hemipterans,1,53,54,15
+house.basement.Hemiptera (true bugs).Reduviidae (assassin bugs),basement,Hemiptera,true bugs,Reduviidae,assassin bugs,2,52,54,15
+house.basement.Hemiptera (true bugs).Rhyparochromidae (dirt colored seed bugs),basement,Hemiptera,true bugs,Rhyparochromidae,dirt colored seed bugs,2,52,54,15
+house.basement.Hemiptera (true bugs).Tingidae (lace bugs),basement,Hemiptera,true bugs,Tingidae,lace bugs,1,53,54,15
+house.basement.Hemiptera (true bugs).Un ID family,basement,Hemiptera,true bugs,Un ID family,,1,53,54,15
+"house.basement.Hymenoptera (bees, wasps, ants).Bethylidae (cuckoo wasps)",basement,Hymenoptera,"bees, wasps, ants",Bethylidae,cuckoo wasps,1,53,54,35
+"house.basement.Hymenoptera (bees, wasps, ants).Ceraphronidae (parasitic wasps)",basement,Hymenoptera,"bees, wasps, ants",Ceraphronidae,parasitic wasps,1,53,54,35
+"house.basement.Hymenoptera (bees, wasps, ants).Diapriidae (parasitic wasps)",basement,Hymenoptera,"bees, wasps, ants",Diapriidae,parasitic wasps,3,51,54,35
+"house.basement.Hymenoptera (bees, wasps, ants).Eulophidae (chalcid wasps)",basement,Hymenoptera,"bees, wasps, ants",Eulophidae,chalcid wasps,4,50,54,35
+"house.basement.Hymenoptera (bees, wasps, ants).Formicidae (ants)",basement,Hymenoptera,"bees, wasps, ants",Formicidae,ants,31,23,54,35
+"house.basement.Hymenoptera (bees, wasps, ants).Halictidae (sweat bees)",basement,Hymenoptera,"bees, wasps, ants",Halictidae,sweat bees,1,53,54,35
+"house.basement.Hymenoptera (bees, wasps, ants).Ichneumonidae (scorpion wasps)",basement,Hymenoptera,"bees, wasps, ants",Ichneumonidae,scorpion wasps,3,51,54,35
+"house.basement.Hymenoptera (bees, wasps, ants).Pompilidae (spider wasps)",basement,Hymenoptera,"bees, wasps, ants",Pompilidae,spider wasps,4,50,54,35
+"house.basement.Hymenoptera (bees, wasps, ants).Rhopalosomatidae (Rhopalosomatid wasps)",basement,Hymenoptera,"bees, wasps, ants",Rhopalosomatidae,Rhopalosomatid wasps,1,53,54,35
+"house.basement.Hymenoptera (bees, wasps, ants).Sphecidae (thread-waisted wasps)",basement,Hymenoptera,"bees, wasps, ants",Sphecidae,thread-waisted wasps,1,53,54,35
+"house.basement.Hymenoptera (bees, wasps, ants).Un ID family",basement,Hymenoptera,"bees, wasps, ants",Un ID family,,2,52,54,35
+"house.basement.Hymenoptera (bees, wasps, ants).Vespidae (yellowjackets, etc)",basement,Hymenoptera,"bees, wasps, ants",Vespidae,"yellowjackets, etc",1,53,54,35
+"house.basement.Isopoda (woodlice, pillbugs, roly-poly's).Armadillidiidae (pillbugs)",basement,Isopoda,"woodlice, pillbugs, roly-poly's",Armadillidiidae,pillbugs,26,28,54,31
+"house.basement.Isopoda (woodlice, pillbugs, roly-poly's).Oniscidae (woodlice)",basement,Isopoda,"woodlice, pillbugs, roly-poly's",Oniscidae,woodlice,2,52,54,31
+"house.basement.Isopoda (woodlice, pillbugs, roly-poly's).Porcellionidae (woodlice)",basement,Isopoda,"woodlice, pillbugs, roly-poly's",Porcellionidae,woodlice,8,46,54,31
+"house.basement.Isopoda (woodlice, pillbugs, roly-poly's).Un ID family",basement,Isopoda,"woodlice, pillbugs, roly-poly's",Un ID family,,8,46,54,31
+house.basement.Isoptera (termites).Rhinotermitidae (subterranean termites),basement,Isoptera,termites,Rhinotermitidae,subterranean termites,2,52,54,2
+house.basement.Julida (millipedes).Julidae (millipedes),basement,Julida,millipedes,Julidae,millipedes,6,48,54,10
+house.basement.Julida (millipedes).Parajulidae (millipedes),basement,Julida,millipedes,Parajulidae,millipedes,2,52,54,10
+house.basement.Julida (millipedes).Un ID family,basement,Julida,millipedes,Un ID family,,2,52,54,10
+"house.basement.Lepidoptera (moths, butterflies).Geometridae (geometrid moths)",basement,Lepidoptera,"moths, butterflies",Geometridae,geometrid moths,1,53,54,9
+"house.basement.Lepidoptera (moths, butterflies).Noctuidae (owlet moths)",basement,Lepidoptera,"moths, butterflies",Noctuidae,owlet moths,2,52,54,9
+"house.basement.Lepidoptera (moths, butterflies).Pyralidae (pyralid moths)",basement,Lepidoptera,"moths, butterflies",Pyralidae,pyralid moths,2,52,54,9
+"house.basement.Lepidoptera (moths, butterflies).Un ID family",basement,Lepidoptera,"moths, butterflies",Un ID family,,5,49,54,9
+house.basement.Lithobiomorpha (stone centipedes).Lithobiidae (stone centipedes),basement,Lithobiomorpha,stone centipedes,Lithobiidae,stone centipedes,1,53,54,1
+house.basement.Microcoryphia (bristletails).Machilidae (jumping bristletails),basement,Microcoryphia,bristletails,Machilidae,jumping bristletails,1,53,54,1
+house.basement.Neuroptera (lacewings).Berothidae (beaded lacewings),basement,Neuroptera,lacewings,Berothidae,beaded lacewings,1,53,54,2
+house.basement.Neuroptera (lacewings).Chrysopidae (green lacewings),basement,Neuroptera,lacewings,Chrysopidae,green lacewings,1,53,54,2
+house.basement.Opiliones (harvestmen).Phalangiidae (harvestmen),basement,Opiliones,harvestmen,Phalangiidae,harvestmen,1,53,54,2
+house.basement.Opiliones (harvestmen).Un ID family,basement,Opiliones,harvestmen,Un ID family,,1,53,54,2
+"house.basement.Orthoptera (grasshoppers, etc).Gryllidae (crickets)",basement,Orthoptera,"grasshoppers, etc",Gryllidae,crickets,3,51,54,29
+"house.basement.Orthoptera (grasshoppers, etc).Rhaphidophoridae (camel crickets)",basement,Orthoptera,"grasshoppers, etc",Rhaphidophoridae,camel crickets,27,27,54,29
+house.basement.Polydesmida (flat-backed millipedes).Paradoxosomatidae (millipedes),basement,Polydesmida,flat-backed millipedes,Paradoxosomatidae,millipedes,23,31,54,31
+house.basement.Polydesmida (flat-backed millipedes).Polydesmidae (flat-backed millipedes),basement,Polydesmida,flat-backed millipedes,Polydesmidae,flat-backed millipedes,9,45,54,31
+house.basement.Polydesmida (flat-backed millipedes).Un ID family,basement,Polydesmida,flat-backed millipedes,Un ID family,,5,49,54,31
+house.basement.Polydesmida (flat-backed millipedes).Xystodesmidae (millipedes),basement,Polydesmida,flat-backed millipedes,Xystodesmidae,millipedes,3,51,54,31
+house.basement.Pseudoscorpiones (pseudoscorpions).Chthoniidae (pseudoscorpions),basement,Pseudoscorpiones,pseudoscorpions,Chthoniidae,pseudoscorpions,1,53,54,2
+house.basement.Pseudoscorpiones (pseudoscorpions).Un ID family,basement,Pseudoscorpiones,pseudoscorpions,Un ID family,,1,53,54,2
+"house.basement.Psocodea (barklice, booklice, parasitic lice).Liposcelididae (booklice)",basement,Psocodea,"barklice, booklice, parasitic lice",Liposcelididae,booklice,9,45,54,13
+"house.basement.Psocodea (barklice, booklice, parasitic lice).Psyllipsocidae (cave barklice)",basement,Psocodea,"barklice, booklice, parasitic lice",Psyllipsocidae,cave barklice,1,53,54,13
+"house.basement.Psocodea (barklice, booklice, parasitic lice).Un ID family",basement,Psocodea,"barklice, booklice, parasitic lice",Un ID family,,5,49,54,13
+house.basement.Scolopendromorpha (tropical centipedes).Scolopendridae (tropical centipedes),basement,Scolopendromorpha,tropical centipedes,Scolopendridae,tropical centipedes,3,51,54,3
+house.basement.Scutigeromorpha (house centipedes).Scutigeridae (house centipedes),basement,Scutigeromorpha,house centipedes,Scutigeridae,house centipedes,7,47,54,7
+house.basement.Spirobolida (round-backed millipedes).Spirobolidae (round-backed millipedes),basement,Spirobolida,round-backed millipedes,Spirobolidae,round-backed millipedes,8,46,54,8
+house.basement.Spirostreptida (millipedes).Cambalidae (millipedes),basement,Spirostreptida,millipedes,Cambalidae,millipedes,1,53,54,1
+house.basement.Thysanoptera (thrips).Phlaeothripidae (tube tailed thrips),basement,Thysanoptera,thrips,Phlaeothripidae,tube tailed thrips,1,53,54,3
+house.basement.Thysanoptera (thrips).Un ID family,basement,Thysanoptera,thrips,Un ID family,,2,52,54,3
+house.basement.Zygentoma (silverfish).Lepismatidae (silverfish),basement,Zygentoma,silverfish,Lepismatidae,silverfish,2,52,54,2
+"house.bath.Acari (mites, ticks).Ixodidae (hard ticks)",bath,Acari,"mites, ticks",Ixodidae,hard ticks,1,145,146,7
+"house.bath.Acari (mites, ticks).Oribatida (moss mites)",bath,Acari,"mites, ticks",Oribatida,moss mites,2,144,146,7
+"house.bath.Acari (mites, ticks).Un ID family",bath,Acari,"mites, ticks",Un ID family,,4,142,146,7
+house.bath.Araneae (spiders).Agelenidae (funnel weavers),bath,Araneae,spiders,Agelenidae,funnel weavers,3,143,146,100
+house.bath.Araneae (spiders).Anyphaenidae (ghost spiders),bath,Araneae,spiders,Anyphaenidae,ghost spiders,1,145,146,100
+house.bath.Araneae (spiders).Araneidae (orb weavers),bath,Araneae,spiders,Araneidae,orb weavers,2,144,146,100
+"house.bath.Araneae (spiders).Corinnidae (antmimics, ground spiders)",bath,Araneae,spiders,Corinnidae,"antmimics, ground spiders",2,144,146,100
+house.bath.Araneae (spiders).Ctenidae (wandering spiders),bath,Araneae,spiders,Ctenidae,wandering spiders,1,145,146,100
+house.bath.Araneae (spiders).Filistatidae (crevice weavers),bath,Araneae,spiders,Filistatidae,crevice weavers,1,145,146,100
+house.bath.Araneae (spiders).Gnaphosidae (ground spiders),bath,Araneae,spiders,Gnaphosidae,ground spiders,5,141,146,100
+house.bath.Araneae (spiders).Lycosidae (wolf spiders),bath,Araneae,spiders,Lycosidae,wolf spiders,3,143,146,100
+house.bath.Araneae (spiders).Mimetidae (pirate spiders),bath,Araneae,spiders,Mimetidae,pirate spiders,1,145,146,100
+house.bath.Araneae (spiders).Oecobiidae (wall spiders),bath,Araneae,spiders,Oecobiidae,wall spiders,9,137,146,100
+house.bath.Araneae (spiders).Oonopidae (goblin spiders),bath,Araneae,spiders,Oonopidae,goblin spiders,3,143,146,100
+house.bath.Araneae (spiders).Oxyopidae (Lynx spiders),bath,Araneae,spiders,Oxyopidae,Lynx spiders,2,144,146,100
+house.bath.Araneae (spiders).Pholcidae (cellar spiders),bath,Araneae,spiders,Pholcidae,cellar spiders,28,118,146,100
+house.bath.Araneae (spiders).Salticidae (jumping spider),bath,Araneae,spiders,Salticidae,jumping spider,4,142,146,100
+house.bath.Araneae (spiders).Scytodidae (spitting spider),bath,Araneae,spiders,Scytodidae,spitting spider,5,141,146,100
+house.bath.Araneae (spiders).Theridiidae (cobweb spiders),bath,Araneae,spiders,Theridiidae,cobweb spiders,81,65,146,100
+house.bath.Araneae (spiders).Un ID family,bath,Araneae,spiders,Un ID family,,4,142,146,100
+house.bath.Blattodea (cockroaches).Blattellidae (cockroaches),bath,Blattodea,cockroaches,Blattellidae,cockroaches,3,143,146,21
+house.bath.Blattodea (cockroaches).Blattidae (cockroaches),bath,Blattodea,cockroaches,Blattidae,cockroaches,18,128,146,21
+house.bath.Coleoptera (beetles).Aderidae (antlike leaf beetles),bath,Coleoptera,beetles,Aderidae,antlike leaf beetles,1,145,146,79
+house.bath.Coleoptera (beetles).Anobiidae (death watch beetles),bath,Coleoptera,beetles,Anobiidae,death watch beetles,8,138,146,79
+house.bath.Coleoptera (beetles).Anthicidae (antlike flower beetles),bath,Coleoptera,beetles,Anthicidae,antlike flower beetles,1,145,146,79
+house.bath.Coleoptera (beetles).Carabidae (ground beetles),bath,Coleoptera,beetles,Carabidae,ground beetles,6,140,146,79
+house.bath.Coleoptera (beetles).Cerambycidae (longhorned beetles),bath,Coleoptera,beetles,Cerambycidae,longhorned beetles,1,145,146,79
+house.bath.Coleoptera (beetles).Chrysomelidae (leaf beetles),bath,Coleoptera,beetles,Chrysomelidae,leaf beetles,2,144,146,79
+house.bath.Coleoptera (beetles).Cleridae (checkered beetles),bath,Coleoptera,beetles,Cleridae,checkered beetles,2,144,146,79
+house.bath.Coleoptera (beetles).Coccinellidae (ladybugs),bath,Coleoptera,beetles,Coccinellidae,ladybugs,1,145,146,79
+house.bath.Coleoptera (beetles).Curculionidae (snout & bark beetles),bath,Coleoptera,beetles,Curculionidae,snout & bark beetles,14,132,146,79
+house.bath.Coleoptera (beetles).Dermestidae (carpet beetles),bath,Coleoptera,beetles,Dermestidae,carpet beetles,65,81,146,79
+house.bath.Coleoptera (beetles).Elateridae (click beetles),bath,Coleoptera,beetles,Elateridae,click beetles,8,138,146,79
+house.bath.Coleoptera (beetles).Histeridae (clown beetles),bath,Coleoptera,beetles,Histeridae,clown beetles,1,145,146,79
+house.bath.Coleoptera (beetles).Laemophloeidae (lined flat bark beetles),bath,Coleoptera,beetles,Laemophloeidae,lined flat bark beetles,2,144,146,79
+house.bath.Coleoptera (beetles).Latridiidae (minute brown scavenger beetles),bath,Coleoptera,beetles,Latridiidae,minute brown scavenger beetles,2,144,146,79
+house.bath.Coleoptera (beetles).Melyridae (soft winged flower beetles),bath,Coleoptera,beetles,Melyridae,soft winged flower beetles,4,142,146,79
+house.bath.Coleoptera (beetles).Mordellidae (tumbling flower beetles),bath,Coleoptera,beetles,Mordellidae,tumbling flower beetles,1,145,146,79
+house.bath.Coleoptera (beetles).Ptilodactylidae (toe winged beetles),bath,Coleoptera,beetles,Ptilodactylidae,toe winged beetles,3,143,146,79
+house.bath.Coleoptera (beetles).Scarabaeidae (scarab beetles),bath,Coleoptera,beetles,Scarabaeidae,scarab beetles,4,142,146,79
+house.bath.Coleoptera (beetles).Scraptiidae (false flower beetles),bath,Coleoptera,beetles,Scraptiidae,false flower beetles,1,145,146,79
+house.bath.Coleoptera (beetles).Silvanidae (flat bark beetles),bath,Coleoptera,beetles,Silvanidae,flat bark beetles,3,143,146,79
+house.bath.Coleoptera (beetles).Staphylinidae (rove beetles),bath,Coleoptera,beetles,Staphylinidae,rove beetles,7,139,146,79
+house.bath.Coleoptera (beetles).Tenebrionidae (darkling beetles),bath,Coleoptera,beetles,Tenebrionidae,darkling beetles,7,139,146,79
+house.bath.Coleoptera (beetles).Tetratomidae (polypore fungus beetles),bath,Coleoptera,beetles,Tetratomidae,polypore fungus beetles,1,145,146,79
+house.bath.Coleoptera (beetles).Throscidae (false metallic wood boring beetles),bath,Coleoptera,beetles,Throscidae,false metallic wood boring beetles,1,145,146,79
+house.bath.Coleoptera (beetles).Trogossitidae (bark gnawing beetles),bath,Coleoptera,beetles,Trogossitidae,bark gnawing beetles,1,145,146,79
+house.bath.Coleoptera (beetles).Un ID family,bath,Coleoptera,beetles,Un ID family,,1,145,146,79
+house.bath.Collembola (springtails).Entomobryidae (slender springtails),bath,Collembola,springtails,Entomobryidae,slender springtails,22,124,146,23
+house.bath.Collembola (springtails).Hypogastruridae (springtails),bath,Collembola,springtails,Hypogastruridae,springtails,2,144,146,23
+house.bath.Collembola (springtails).Isotomidae (elongate springtails),bath,Collembola,springtails,Isotomidae,elongate springtails,1,145,146,23
+house.bath.Collembola (springtails).Tomoceridae (elongate bodied springtails),bath,Collembola,springtails,Tomoceridae,elongate bodied springtails,1,145,146,23
+house.bath.Dermaptera (earwigs).Anisolabididae (earwigs),bath,Dermaptera,earwigs,Anisolabididae,earwigs,4,142,146,6
+house.bath.Dermaptera (earwigs).Forficulidae (earwigs),bath,Dermaptera,earwigs,Forficulidae,earwigs,2,144,146,6
+house.bath.Dermaptera (earwigs).Spongiphoridae (little earwigs),bath,Dermaptera,earwigs,Spongiphoridae,little earwigs,1,145,146,6
+house.bath.Diptera (flies).Agromyzidae (leaf miner flies),bath,Diptera,flies,Agromyzidae,leaf miner flies,1,145,146,97
+"house.bath.Diptera (flies).Bibionidae (march flies, lovebugs)",bath,Diptera,flies,Bibionidae,"march flies, lovebugs",1,145,146,97
+house.bath.Diptera (flies).Calliphoridae (blow flies),bath,Diptera,flies,Calliphoridae,blow flies,4,142,146,97
+house.bath.Diptera (flies).Cecidomyiidae (gall midges),bath,Diptera,flies,Cecidomyiidae,gall midges,44,102,146,97
+house.bath.Diptera (flies).Ceratopogonidae (biting midges),bath,Diptera,flies,Ceratopogonidae,biting midges,5,141,146,97
+house.bath.Diptera (flies).Chaoboridae (phantom midges),bath,Diptera,flies,Chaoboridae,phantom midges,5,141,146,97
+house.bath.Diptera (flies).Chironomidae (non biting midges),bath,Diptera,flies,Chironomidae,non biting midges,13,133,146,97
+house.bath.Diptera (flies).Chloropidae (frit flies),bath,Diptera,flies,Chloropidae,frit flies,5,141,146,97
+house.bath.Diptera (flies).Culicidae (mosquitoes),bath,Diptera,flies,Culicidae,mosquitoes,11,135,146,97
+house.bath.Diptera (flies).Dolichopodidae (longlegged flies),bath,Diptera,flies,Dolichopodidae,longlegged flies,4,142,146,97
+"house.bath.Diptera (flies).Drosophilidae (fruit flies, vinegar flies)",bath,Diptera,flies,Drosophilidae,"fruit flies, vinegar flies",7,139,146,97
+house.bath.Diptera (flies).Empididae (dance flies),bath,Diptera,flies,Empididae,dance flies,1,145,146,97
+house.bath.Diptera (flies).Ephydridae (shore flies),bath,Diptera,flies,Ephydridae,shore flies,2,144,146,97
+house.bath.Diptera (flies).Fanniidae (Calyptrate flies),bath,Diptera,flies,Fanniidae,Calyptrate flies,1,145,146,97
+house.bath.Diptera (flies).Lauxaniidae (acalyptrate flies),bath,Diptera,flies,Lauxaniidae,acalyptrate flies,1,145,146,97
+house.bath.Diptera (flies).Milichiidae (freeloader flies),bath,Diptera,flies,Milichiidae,freeloader flies,1,145,146,97
+house.bath.Diptera (flies).Muscidae (house flies),bath,Diptera,flies,Muscidae,house flies,2,144,146,97
+house.bath.Diptera (flies).Mycetophilidae (fungus gnats),bath,Diptera,flies,Mycetophilidae,fungus gnats,12,134,146,97
+house.bath.Diptera (flies).Phoridae (scuttle flies),bath,Diptera,flies,Phoridae,scuttle flies,9,137,146,97
+house.bath.Diptera (flies).Psychodidae (sand & moth flies),bath,Diptera,flies,Psychodidae,sand & moth flies,21,125,146,97
+house.bath.Diptera (flies).Rhinophoridae (woodlouse flies),bath,Diptera,flies,Rhinophoridae,woodlouse flies,1,145,146,97
+house.bath.Diptera (flies).Sarcophagidae (flesh flies),bath,Diptera,flies,Sarcophagidae,flesh flies,4,142,146,97
+house.bath.Diptera (flies).Scatopsidae (minute black scavenger flies),bath,Diptera,flies,Scatopsidae,minute black scavenger flies,8,138,146,97
+house.bath.Diptera (flies).Sciaridae (dark winged fungus gnats),bath,Diptera,flies,Sciaridae,dark winged fungus gnats,52,94,146,97
+house.bath.Diptera (flies).Sepsidae (black scavenger flies),bath,Diptera,flies,Sepsidae,black scavenger flies,1,145,146,97
+house.bath.Diptera (flies).Sphaeroceridae (lesser dung flies),bath,Diptera,flies,Sphaeroceridae,lesser dung flies,3,143,146,97
+house.bath.Diptera (flies).Stratiomyidae (soldier flies),bath,Diptera,flies,Stratiomyidae,soldier flies,1,145,146,97
+house.bath.Diptera (flies).Tipulidae (large crane flies),bath,Diptera,flies,Tipulidae,large crane flies,16,130,146,97
+house.bath.Diptera (flies).Trichoceridae (winter crane flies),bath,Diptera,flies,Trichoceridae,winter crane flies,3,143,146,97
+house.bath.Diptera (flies).Un ID family,bath,Diptera,flies,Un ID family,,3,143,146,97
+house.bath.Hemiptera (true bugs).Aleyrodidae (whiteflies),bath,Hemiptera,true bugs,Aleyrodidae,whiteflies,1,145,146,27
+house.bath.Hemiptera (true bugs).Anthocoridae (minute pirate bugs),bath,Hemiptera,true bugs,Anthocoridae,minute pirate bugs,4,142,146,27
+house.bath.Hemiptera (true bugs).Aphididae (aphids),bath,Hemiptera,true bugs,Aphididae,aphids,2,144,146,27
+house.bath.Hemiptera (true bugs).Cicadellidae (leafhoppers),bath,Hemiptera,true bugs,Cicadellidae,leafhoppers,13,133,146,27
+"house.bath.Hemiptera (true bugs).Coccoidea (scales, mealybugs)",bath,Hemiptera,true bugs,Coccoidea,"scales, mealybugs",1,145,146,27
+house.bath.Hemiptera (true bugs).Cydnidae (burrowing bugs),bath,Hemiptera,true bugs,Cydnidae,burrowing bugs,2,144,146,27
+house.bath.Hemiptera (true bugs).Delphacidae (Delphacid planthoppers),bath,Hemiptera,true bugs,Delphacidae,Delphacid planthoppers,2,144,146,27
+house.bath.Hemiptera (true bugs).Derbidae (derbid planthopppers),bath,Hemiptera,true bugs,Derbidae,derbid planthopppers,1,145,146,27
+house.bath.Hemiptera (true bugs).Flatidae (flatid planthoppers),bath,Hemiptera,true bugs,Flatidae,flatid planthoppers,1,145,146,27
+house.bath.Hemiptera (true bugs).Lasiochilidae (minute pirate bugs),bath,Hemiptera,true bugs,Lasiochilidae,minute pirate bugs,1,145,146,27
+house.bath.Hemiptera (true bugs).Lygaeidae (seed bugs),bath,Hemiptera,true bugs,Lygaeidae,seed bugs,1,145,146,27
+house.bath.Hemiptera (true bugs).Miridae (plant bugs),bath,Hemiptera,true bugs,Miridae,plant bugs,3,143,146,27
+house.bath.Hemiptera (true bugs).Phylloxeridae (plant parasitic hemipterans),bath,Hemiptera,true bugs,Phylloxeridae,plant parasitic hemipterans,1,145,146,27
+house.bath.Hemiptera (true bugs).Psyllidae (jumping plant lice),bath,Hemiptera,true bugs,Psyllidae,jumping plant lice,1,145,146,27
+house.bath.Hemiptera (true bugs).Rhyparochromidae (dirt colored seed bugs),bath,Hemiptera,true bugs,Rhyparochromidae,dirt colored seed bugs,6,140,146,27
+house.bath.Hemiptera (true bugs).Tingidae (lace bugs),bath,Hemiptera,true bugs,Tingidae,lace bugs,2,144,146,27
+"house.bath.Hymenoptera (bees, wasps, ants).Anthophila (Apoidea) (bees)",bath,Hymenoptera,"bees, wasps, ants",Anthophila,Apoidea,2,144,146,74
+"house.bath.Hymenoptera (bees, wasps, ants).Apidae (bees)",bath,Hymenoptera,"bees, wasps, ants",Apidae,bees,1,145,146,74
+"house.bath.Hymenoptera (bees, wasps, ants).Bethylidae (cuckoo wasps)",bath,Hymenoptera,"bees, wasps, ants",Bethylidae,cuckoo wasps,1,145,146,74
+"house.bath.Hymenoptera (bees, wasps, ants).Braconidae (parasitoid wasps)",bath,Hymenoptera,"bees, wasps, ants",Braconidae,parasitoid wasps,6,140,146,74
+"house.bath.Hymenoptera (bees, wasps, ants).Chalcididae (Chalcid wasps)",bath,Hymenoptera,"bees, wasps, ants",Chalcididae,Chalcid wasps,1,145,146,74
+"house.bath.Hymenoptera (bees, wasps, ants).Eulophidae (chalcid wasps)",bath,Hymenoptera,"bees, wasps, ants",Eulophidae,chalcid wasps,19,127,146,74
+"house.bath.Hymenoptera (bees, wasps, ants).Eupelmidae (chalcid wasps)",bath,Hymenoptera,"bees, wasps, ants",Eupelmidae,chalcid wasps,1,145,146,74
+"house.bath.Hymenoptera (bees, wasps, ants).Formicidae (ants)",bath,Hymenoptera,"bees, wasps, ants",Formicidae,ants,61,85,146,74
+"house.bath.Hymenoptera (bees, wasps, ants).Halictidae (sweat bees)",bath,Hymenoptera,"bees, wasps, ants",Halictidae,sweat bees,1,145,146,74
+"house.bath.Hymenoptera (bees, wasps, ants).Ichneumonidae (scorpion wasps)",bath,Hymenoptera,"bees, wasps, ants",Ichneumonidae,scorpion wasps,2,144,146,74
+"house.bath.Hymenoptera (bees, wasps, ants).Mutillidae (velvet ants)",bath,Hymenoptera,"bees, wasps, ants",Mutillidae,velvet ants,2,144,146,74
+"house.bath.Hymenoptera (bees, wasps, ants).Mymaridae (fairyflies)",bath,Hymenoptera,"bees, wasps, ants",Mymaridae,fairyflies,1,145,146,74
+"house.bath.Hymenoptera (bees, wasps, ants).Platygastridae (parasitic wasps)",bath,Hymenoptera,"bees, wasps, ants",Platygastridae,parasitic wasps,9,137,146,74
+"house.bath.Hymenoptera (bees, wasps, ants).Platygastridae (parasitic wasps) (parasitoid wasps)",bath,Hymenoptera,"bees, wasps, ants",Platygastridae,parasitic wasps,1,145,146,74
+"house.bath.Hymenoptera (bees, wasps, ants).Pompilidae (spider wasps)",bath,Hymenoptera,"bees, wasps, ants",Pompilidae,spider wasps,4,142,146,74
+"house.bath.Hymenoptera (bees, wasps, ants).Pteromalidae (Pteromalid wasps)",bath,Hymenoptera,"bees, wasps, ants",Pteromalidae,Pteromalid wasps,3,143,146,74
+"house.bath.Hymenoptera (bees, wasps, ants).Sphecidae (thread-waisted wasps)",bath,Hymenoptera,"bees, wasps, ants",Sphecidae,thread-waisted wasps,4,142,146,74
+"house.bath.Hymenoptera (bees, wasps, ants).Xyelidae (saw flies)",bath,Hymenoptera,"bees, wasps, ants",Xyelidae,saw flies,1,145,146,74
+"house.bath.Isopoda (woodlice, pillbugs, roly-poly's).Armadillidiidae (pillbugs)",bath,Isopoda,"woodlice, pillbugs, roly-poly's",Armadillidiidae,pillbugs,20,126,146,21
+"house.bath.Isopoda (woodlice, pillbugs, roly-poly's).Porcellionidae (woodlice)",bath,Isopoda,"woodlice, pillbugs, roly-poly's",Porcellionidae,woodlice,2,144,146,21
+"house.bath.Isopoda (woodlice, pillbugs, roly-poly's).Un ID family",bath,Isopoda,"woodlice, pillbugs, roly-poly's",Un ID family,,2,144,146,21
+house.bath.Isoptera (termites).Rhinotermitidae (subterranean termites),bath,Isoptera,termites,Rhinotermitidae,subterranean termites,2,144,146,2
+house.bath.Julida (millipedes).Julidae (millipedes),bath,Julida,millipedes,Julidae,millipedes,3,143,146,3
+"house.bath.Lepidoptera (moths, butterflies).Geometridae (geometrid moths)",bath,Lepidoptera,"moths, butterflies",Geometridae,geometrid moths,1,145,146,17
+"house.bath.Lepidoptera (moths, butterflies).Noctuidae (owlet moths)",bath,Lepidoptera,"moths, butterflies",Noctuidae,owlet moths,6,140,146,17
+"house.bath.Lepidoptera (moths, butterflies).Pyralidae (pyralid moths)",bath,Lepidoptera,"moths, butterflies",Pyralidae,pyralid moths,7,139,146,17
+"house.bath.Lepidoptera (moths, butterflies).Tineidae (clothes moths)",bath,Lepidoptera,"moths, butterflies",Tineidae,clothes moths,8,138,146,17
+"house.bath.Lepidoptera (moths, butterflies).Tortricidae (leafroller moths)",bath,Lepidoptera,"moths, butterflies",Tortricidae,leafroller moths,1,145,146,17
+"house.bath.Lepidoptera (moths, butterflies).Un ID family",bath,Lepidoptera,"moths, butterflies",Un ID family,,1,145,146,17
+house.bath.Microcoryphia (bristletails).Machilidae (jumping bristletails),bath,Microcoryphia,bristletails,Machilidae,jumping bristletails,2,144,146,4
+house.bath.Microcoryphia (bristletails).Meinertellidae (rock bristletails),bath,Microcoryphia,bristletails,Meinertellidae,rock bristletails,2,144,146,4
+house.bath.Neuroptera (lacewings).Chrysopidae (green lacewings),bath,Neuroptera,lacewings,Chrysopidae,green lacewings,2,144,146,4
+house.bath.Neuroptera (lacewings).Coniopterygidae (dustywings),bath,Neuroptera,lacewings,Coniopterygidae,dustywings,1,145,146,4
+house.bath.Neuroptera (lacewings).Myrmeleontidae (ant lions),bath,Neuroptera,lacewings,Myrmeleontidae,ant lions,1,145,146,4
+house.bath.No specimens.No specimens,bath,No specimens,,No specimens,,6,140,146,6
+house.bath.Opiliones (harvestmen).Un ID family,bath,Opiliones,harvestmen,Un ID family,,1,145,146,1
+"house.bath.Orthoptera (grasshoppers, etc).Gryllidae (crickets)",bath,Orthoptera,"grasshoppers, etc",Gryllidae,crickets,3,143,146,11
+"house.bath.Orthoptera (grasshoppers, etc).Rhaphidophoridae (camel crickets)",bath,Orthoptera,"grasshoppers, etc",Rhaphidophoridae,camel crickets,8,138,146,11
+house.bath.Plecoptera (stoneflies).Leuctridae (rolled-winged stoneflies),bath,Plecoptera,stoneflies,Leuctridae,rolled-winged stoneflies,1,145,146,1
+house.bath.Polydesmida (flat-backed millipedes).Paradoxosomatidae (millipedes),bath,Polydesmida,flat-backed millipedes,Paradoxosomatidae,millipedes,4,142,146,7
+house.bath.Polydesmida (flat-backed millipedes).Polydesmidae (flat-backed millipedes),bath,Polydesmida,flat-backed millipedes,Polydesmidae,flat-backed millipedes,2,144,146,7
+house.bath.Polydesmida (flat-backed millipedes).Un ID family,bath,Polydesmida,flat-backed millipedes,Un ID family,,1,145,146,7
+house.bath.Pseudoscorpiones (pseudoscorpions).Un ID family,bath,Pseudoscorpiones,pseudoscorpions,Un ID family,,1,145,146,1
+"house.bath.Psocodea (barklice, booklice, parasitic lice).Lepidopsocidae (scaly winged barklice)",bath,Psocodea,"barklice, booklice, parasitic lice",Lepidopsocidae,scaly winged barklice,1,145,146,46
+"house.bath.Psocodea (barklice, booklice, parasitic lice).Liposcelididae (booklice)",bath,Psocodea,"barklice, booklice, parasitic lice",Liposcelididae,booklice,41,105,146,46
+"house.bath.Psocodea (barklice, booklice, parasitic lice).Myopsocidae (mouse-like barklice)",bath,Psocodea,"barklice, booklice, parasitic lice",Myopsocidae,mouse-like barklice,1,145,146,46
+"house.bath.Psocodea (barklice, booklice, parasitic lice).Stenopsocidae (narrow barklice)",bath,Psocodea,"barklice, booklice, parasitic lice",Stenopsocidae,narrow barklice,1,145,146,46
+"house.bath.Psocodea (barklice, booklice, parasitic lice).Un ID family",bath,Psocodea,"barklice, booklice, parasitic lice",Un ID family,,9,137,146,46
+house.bath.Scolopendromorpha (tropical centipedes).Scolopendridae (tropical centipedes),bath,Scolopendromorpha,tropical centipedes,Scolopendridae,tropical centipedes,1,145,146,1
+house.bath.Scutigeromorpha (house centipedes).Scutigeridae (house centipedes),bath,Scutigeromorpha,house centipedes,Scutigeridae,house centipedes,5,141,146,5
+house.bath.Siphonaptera (fleas).Pulicidae (fleas),bath,Siphonaptera,fleas,Pulicidae,fleas,4,142,146,4
+house.bath.Spirobolida (round-backed millipedes).Spirobolidae (round-backed millipedes),bath,Spirobolida,round-backed millipedes,Spirobolidae,round-backed millipedes,1,145,146,1
+house.bath.Thysanoptera (thrips).Phlaeothripidae (tube tailed thrips),bath,Thysanoptera,thrips,Phlaeothripidae,tube tailed thrips,1,145,146,4
+house.bath.Thysanoptera (thrips).Thripidae (thrips),bath,Thysanoptera,thrips,Thripidae,thrips,3,143,146,4
+house.bath.Trichoptera (caddisflies).Un ID family,bath,Trichoptera,caddisflies,Un ID family,,1,145,146,1
+house.bath.Zygentoma (silverfish).Lepismatidae (silverfish),bath,Zygentoma,silverfish,Lepismatidae,silverfish,22,124,146,22
+"house.bed.Acari (mites, ticks).Erythraeidae (mites)",bed,Acari,"mites, ticks",Erythraeidae,mites,1,159,160,28
+"house.bed.Acari (mites, ticks).Galumnidae (mites)",bed,Acari,"mites, ticks",Galumnidae,mites,1,159,160,28
+"house.bed.Acari (mites, ticks).Ixodidae (hard ticks)",bed,Acari,"mites, ticks",Ixodidae,hard ticks,3,157,160,28
+"house.bed.Acari (mites, ticks).Oribatida (moss mites)",bed,Acari,"mites, ticks",Oribatida,moss mites,6,154,160,28
+"house.bed.Acari (mites, ticks).Plateremaeidae (ticks)",bed,Acari,"mites, ticks",Plateremaeidae,ticks,1,159,160,28
+"house.bed.Acari (mites, ticks).Tetranychidae (spider mites)",bed,Acari,"mites, ticks",Tetranychidae,spider mites,3,157,160,28
+"house.bed.Acari (mites, ticks).Trombidiidae (velvet mites)",bed,Acari,"mites, ticks",Trombidiidae,velvet mites,1,159,160,28
+"house.bed.Acari (mites, ticks).Un ID family",bed,Acari,"mites, ticks",Un ID family,,19,141,160,28
+house.bed.Araneae (spiders).Agelenidae (funnel weavers),bed,Araneae,spiders,Agelenidae,funnel weavers,11,149,160,121
+house.bed.Araneae (spiders).Anyphaenidae (ghost spiders),bed,Araneae,spiders,Anyphaenidae,ghost spiders,9,151,160,121
+house.bed.Araneae (spiders).Araneidae (orb weavers),bed,Araneae,spiders,Araneidae,orb weavers,2,158,160,121
+"house.bed.Araneae (spiders).Corinnidae (antmimics, ground spiders)",bed,Araneae,spiders,Corinnidae,"antmimics, ground spiders",11,149,160,121
+"house.bed.Araneae (spiders).Dysderidae (woodlouse hunters, cell spiders)",bed,Araneae,spiders,Dysderidae,"woodlouse hunters, cell spiders",1,159,160,121
+house.bed.Araneae (spiders).Gnaphosidae (ground spiders),bed,Araneae,spiders,Gnaphosidae,ground spiders,16,144,160,121
+house.bed.Araneae (spiders).Linyphiidae (sheetweb & dwarf spiders),bed,Araneae,spiders,Linyphiidae,sheetweb & dwarf spiders,2,158,160,121
+house.bed.Araneae (spiders).Lycosidae (wolf spiders),bed,Araneae,spiders,Lycosidae,wolf spiders,4,156,160,121
+house.bed.Araneae (spiders).Miturgidae (prowling spiders),bed,Araneae,spiders,Miturgidae,prowling spiders,2,158,160,121
+house.bed.Araneae (spiders).Oecobiidae (wall spiders),bed,Araneae,spiders,Oecobiidae,wall spiders,16,144,160,121
+house.bed.Araneae (spiders).Oonopidae (goblin spiders),bed,Araneae,spiders,Oonopidae,goblin spiders,6,154,160,121
+house.bed.Araneae (spiders).Pholcidae (cellar spiders),bed,Araneae,spiders,Pholcidae,cellar spiders,29,131,160,121
+house.bed.Araneae (spiders).Salticidae (jumping spider),bed,Araneae,spiders,Salticidae,jumping spider,12,148,160,121
+house.bed.Araneae (spiders).Scytodidae (spitting spider),bed,Araneae,spiders,Scytodidae,spitting spider,4,156,160,121
+house.bed.Araneae (spiders).Segestriidae (tube web spiders),bed,Araneae,spiders,Segestriidae,tube web spiders,1,159,160,121
+house.bed.Araneae (spiders).Theridiidae (cobweb spiders),bed,Araneae,spiders,Theridiidae,cobweb spiders,98,62,160,121
+house.bed.Araneae (spiders).Thomisidae (crab spiders),bed,Araneae,spiders,Thomisidae,crab spiders,7,153,160,121
+house.bed.Araneae (spiders).Un ID family,bed,Araneae,spiders,Un ID family,,21,139,160,121
+house.bed.Blattodea (cockroaches).Blattellidae (cockroaches),bed,Blattodea,cockroaches,Blattellidae,cockroaches,6,154,160,42
+house.bed.Blattodea (cockroaches).Blattidae (cockroaches),bed,Blattodea,cockroaches,Blattidae,cockroaches,36,124,160,42
+house.bed.Blattodea (cockroaches).Un ID family,bed,Blattodea,cockroaches,Un ID family,,3,157,160,42
+house.bed.Callipodida (crested millipedes).Abacionidae (millipedes),bed,Callipodida,crested millipedes,Abacionidae,millipedes,4,156,160,4
+house.bed.Coleoptera (beetles).Aderidae (antlike leaf beetles),bed,Coleoptera,beetles,Aderidae,antlike leaf beetles,5,155,160,135
+house.bed.Coleoptera (beetles).Anobiidae (death watch beetles),bed,Coleoptera,beetles,Anobiidae,death watch beetles,17,143,160,135
+house.bed.Coleoptera (beetles).Anthicidae (antlike flower beetles),bed,Coleoptera,beetles,Anthicidae,antlike flower beetles,3,157,160,135
+house.bed.Coleoptera (beetles).Anthribidae (fungus weevils),bed,Coleoptera,beetles,Anthribidae,fungus weevils,1,159,160,135
+house.bed.Coleoptera (beetles).Buprestidae (metallic wood-boring beetles),bed,Coleoptera,beetles,Buprestidae,metallic wood-boring beetles,1,159,160,135
+house.bed.Coleoptera (beetles).Cantharidae (soldier beetles),bed,Coleoptera,beetles,Cantharidae,soldier beetles,1,159,160,135
+house.bed.Coleoptera (beetles).Carabidae (ground beetles),bed,Coleoptera,beetles,Carabidae,ground beetles,11,149,160,135
+house.bed.Coleoptera (beetles).Cerambycidae (longhorned beetles),bed,Coleoptera,beetles,Cerambycidae,longhorned beetles,5,155,160,135
+house.bed.Coleoptera (beetles).Chrysomelidae (leaf beetles),bed,Coleoptera,beetles,Chrysomelidae,leaf beetles,13,147,160,135
+house.bed.Coleoptera (beetles).Cleridae (checkered beetles),bed,Coleoptera,beetles,Cleridae,checkered beetles,5,155,160,135
+house.bed.Coleoptera (beetles).Coccinellidae (ladybugs),bed,Coleoptera,beetles,Coccinellidae,ladybugs,14,146,160,135
+house.bed.Coleoptera (beetles).Cryptophagidae (silken fungus beetles),bed,Coleoptera,beetles,Cryptophagidae,silken fungus beetles,4,156,160,135
+house.bed.Coleoptera (beetles).Cupedidae (reticulated beetles),bed,Coleoptera,beetles,Cupedidae,reticulated beetles,1,159,160,135
+house.bed.Coleoptera (beetles).Curculionidae (snout & bark beetles),bed,Coleoptera,beetles,Curculionidae,snout & bark beetles,26,134,160,135
+house.bed.Coleoptera (beetles).Dermestidae (carpet beetles),bed,Coleoptera,beetles,Dermestidae,carpet beetles,114,46,160,135
+house.bed.Coleoptera (beetles).Elateridae (click beetles),bed,Coleoptera,beetles,Elateridae,click beetles,20,140,160,135
+house.bed.Coleoptera (beetles).Erotylidae (pleasing fungus beetles),bed,Coleoptera,beetles,Erotylidae,pleasing fungus beetles,2,158,160,135
+house.bed.Coleoptera (beetles).Eucinetidae (plate-thigh beetles),bed,Coleoptera,beetles,Eucinetidae,plate-thigh beetles,1,159,160,135
+house.bed.Coleoptera (beetles).Histeridae (clown beetles),bed,Coleoptera,beetles,Histeridae,clown beetles,1,159,160,135
+house.bed.Coleoptera (beetles).Lampyridae (fireflies),bed,Coleoptera,beetles,Lampyridae,fireflies,2,158,160,135
+house.bed.Coleoptera (beetles).Latridiidae (minute brown scavenger beetles),bed,Coleoptera,beetles,Latridiidae,minute brown scavenger beetles,9,151,160,135
+house.bed.Coleoptera (beetles).Lucanidae (stag beetles),bed,Coleoptera,beetles,Lucanidae,stag beetles,1,159,160,135
+house.bed.Coleoptera (beetles).Lycidae (net-winged beetles),bed,Coleoptera,beetles,Lycidae,net-winged beetles,1,159,160,135
+house.bed.Coleoptera (beetles).Melyridae (soft winged flower beetles),bed,Coleoptera,beetles,Melyridae,soft winged flower beetles,5,155,160,135
+house.bed.Coleoptera (beetles).Monotomidae (root-eating beetles),bed,Coleoptera,beetles,Monotomidae,root-eating beetles,2,158,160,135
+house.bed.Coleoptera (beetles).Mordellidae (tumbling flower beetles),bed,Coleoptera,beetles,Mordellidae,tumbling flower beetles,5,155,160,135
+house.bed.Coleoptera (beetles).Mycetophagidae (hairy fungus beetles),bed,Coleoptera,beetles,Mycetophagidae,hairy fungus beetles,4,156,160,135
+house.bed.Coleoptera (beetles).Nitidulidae (sap beetles),bed,Coleoptera,beetles,Nitidulidae,sap beetles,4,156,160,135
+house.bed.Coleoptera (beetles).Phalacridae (shining flower beetles),bed,Coleoptera,beetles,Phalacridae,shining flower beetles,1,159,160,135
+house.bed.Coleoptera (beetles).Ptilodactylidae (toe winged beetles),bed,Coleoptera,beetles,Ptilodactylidae,toe winged beetles,9,151,160,135
+house.bed.Coleoptera (beetles).Scarabaeidae (scarab beetles),bed,Coleoptera,beetles,Scarabaeidae,scarab beetles,13,147,160,135
+house.bed.Coleoptera (beetles).Scirtidae (marsh beetles),bed,Coleoptera,beetles,Scirtidae,marsh beetles,2,158,160,135
+house.bed.Coleoptera (beetles).Scraptiidae (false flower beetles),bed,Coleoptera,beetles,Scraptiidae,false flower beetles,3,157,160,135
+house.bed.Coleoptera (beetles).Scydmaenidae (ant like stone beetles),bed,Coleoptera,beetles,Scydmaenidae,ant like stone beetles,1,159,160,135
+house.bed.Coleoptera (beetles).Silvanidae (flat bark beetles),bed,Coleoptera,beetles,Silvanidae,flat bark beetles,8,152,160,135
+house.bed.Coleoptera (beetles).Staphylinidae (rove beetles),bed,Coleoptera,beetles,Staphylinidae,rove beetles,8,152,160,135
+house.bed.Coleoptera (beetles).Tenebrionidae (darkling beetles),bed,Coleoptera,beetles,Tenebrionidae,darkling beetles,18,142,160,135
+house.bed.Coleoptera (beetles).Throscidae (false metallic wood boring beetles),bed,Coleoptera,beetles,Throscidae,false metallic wood boring beetles,3,157,160,135
+house.bed.Coleoptera (beetles).Trogossitidae (bark gnawing beetles),bed,Coleoptera,beetles,Trogossitidae,bark gnawing beetles,1,159,160,135
+house.bed.Coleoptera (beetles).Un ID family,bed,Coleoptera,beetles,Un ID family,,8,152,160,135
+house.bed.Coleoptera (beetles).Zopheridae (ironclad beetles),bed,Coleoptera,beetles,Zopheridae,ironclad beetles,4,156,160,135
+house.bed.Collembola (springtails).Entomobryidae (slender springtails),bed,Collembola,springtails,Entomobryidae,slender springtails,27,133,160,35
+house.bed.Collembola (springtails).Hypogastruridae (springtails),bed,Collembola,springtails,Hypogastruridae,springtails,2,158,160,35
+house.bed.Collembola (springtails).Sminthuridae (globular springtails),bed,Collembola,springtails,Sminthuridae,globular springtails,1,159,160,35
+house.bed.Collembola (springtails).Tomoceridae (elongate bodied springtails),bed,Collembola,springtails,Tomoceridae,elongate bodied springtails,6,154,160,35
+house.bed.Dermaptera (earwigs).Anisolabididae (earwigs),bed,Dermaptera,earwigs,Anisolabididae,earwigs,4,156,160,10
+house.bed.Dermaptera (earwigs).Forficulidae (earwigs),bed,Dermaptera,earwigs,Forficulidae,earwigs,5,155,160,10
+house.bed.Dermaptera (earwigs).Un ID family,bed,Dermaptera,earwigs,Un ID family,,1,159,160,10
+house.bed.Diptera (flies).Agromyzidae (leaf miner flies),bed,Diptera,flies,Agromyzidae,leaf miner flies,1,159,160,137
+house.bed.Diptera (flies).Anisopodidae (wood gnats),bed,Diptera,flies,Anisopodidae,wood gnats,1,159,160,137
+house.bed.Diptera (flies).Anthomyiidae (root maggot flies),bed,Diptera,flies,Anthomyiidae,root maggot flies,2,158,160,137
+"house.bed.Diptera (flies).Bibionidae (march flies, lovebugs)",bed,Diptera,flies,Bibionidae,"march flies, lovebugs",6,154,160,137
+house.bed.Diptera (flies).Calliphoridae (blow flies),bed,Diptera,flies,Calliphoridae,blow flies,12,148,160,137
+house.bed.Diptera (flies).Cecidomyiidae (gall midges),bed,Diptera,flies,Cecidomyiidae,gall midges,54,106,160,137
+house.bed.Diptera (flies).Ceratopogonidae (biting midges),bed,Diptera,flies,Ceratopogonidae,biting midges,14,146,160,137
+house.bed.Diptera (flies).Chaoboridae (phantom midges),bed,Diptera,flies,Chaoboridae,phantom midges,3,157,160,137
+house.bed.Diptera (flies).Chironomidae (non biting midges),bed,Diptera,flies,Chironomidae,non biting midges,22,138,160,137
+house.bed.Diptera (flies).Chloropidae (frit flies),bed,Diptera,flies,Chloropidae,frit flies,5,155,160,137
+house.bed.Diptera (flies).Culicidae (mosquitoes),bed,Diptera,flies,Culicidae,mosquitoes,39,121,160,137
+house.bed.Diptera (flies).Dolichopodidae (longlegged flies),bed,Diptera,flies,Dolichopodidae,longlegged flies,7,153,160,137
+"house.bed.Diptera (flies).Drosophilidae (fruit flies, vinegar flies)",bed,Diptera,flies,Drosophilidae,"fruit flies, vinegar flies",25,135,160,137
+house.bed.Diptera (flies).Empididae (dance flies),bed,Diptera,flies,Empididae,dance flies,2,158,160,137
+house.bed.Diptera (flies).Fanniidae (Calyptrate flies),bed,Diptera,flies,Fanniidae,Calyptrate flies,1,159,160,137
+house.bed.Diptera (flies).Lauxaniidae (acalyptrate flies),bed,Diptera,flies,Lauxaniidae,acalyptrate flies,2,158,160,137
+house.bed.Diptera (flies).Lonchopteridae (pointed-winged flies),bed,Diptera,flies,Lonchopteridae,pointed-winged flies,1,159,160,137
+house.bed.Diptera (flies).Milichiidae (freeloader flies),bed,Diptera,flies,Milichiidae,freeloader flies,3,157,160,137
+house.bed.Diptera (flies).Muscidae (house flies),bed,Diptera,flies,Muscidae,house flies,9,151,160,137
+house.bed.Diptera (flies).Mycetophilidae (fungus gnats),bed,Diptera,flies,Mycetophilidae,fungus gnats,33,127,160,137
+house.bed.Diptera (flies).Phoridae (scuttle flies),bed,Diptera,flies,Phoridae,scuttle flies,27,133,160,137
+house.bed.Diptera (flies).Psychodidae (sand & moth flies),bed,Diptera,flies,Psychodidae,sand & moth flies,29,131,160,137
+house.bed.Diptera (flies).Rhinophoridae (woodlouse flies),bed,Diptera,flies,Rhinophoridae,woodlouse flies,1,159,160,137
+house.bed.Diptera (flies).Sarcophagidae (flesh flies),bed,Diptera,flies,Sarcophagidae,flesh flies,7,153,160,137
+house.bed.Diptera (flies).Scatopsidae (minute black scavenger flies),bed,Diptera,flies,Scatopsidae,minute black scavenger flies,7,153,160,137
+house.bed.Diptera (flies).Sciaridae (dark winged fungus gnats),bed,Diptera,flies,Sciaridae,dark winged fungus gnats,79,81,160,137
+house.bed.Diptera (flies).Sphaeroceridae (lesser dung flies),bed,Diptera,flies,Sphaeroceridae,lesser dung flies,4,156,160,137
+house.bed.Diptera (flies).Stratiomyidae (soldier flies),bed,Diptera,flies,Stratiomyidae,soldier flies,1,159,160,137
+"house.bed.Diptera (flies).Tabanidae (horse flies, deer flies)",bed,Diptera,flies,Tabanidae,"horse flies, deer flies",1,159,160,137
+house.bed.Diptera (flies).Tachinidae (Tachina flies),bed,Diptera,flies,Tachinidae,Tachina flies,3,157,160,137
+house.bed.Diptera (flies).Tipulidae (large crane flies),bed,Diptera,flies,Tipulidae,large crane flies,27,133,160,137
+house.bed.Diptera (flies).Trichoceridae (winter crane flies),bed,Diptera,flies,Trichoceridae,winter crane flies,3,157,160,137
+house.bed.Diptera (flies).Un ID family,bed,Diptera,flies,Un ID family,,6,154,160,137
+house.bed.Hemiptera (true bugs).Alydidae (broad-headed bugs),bed,Hemiptera,true bugs,Alydidae,broad-headed bugs,1,159,160,59
+house.bed.Hemiptera (true bugs).Anisolabididae (earwigs),bed,Hemiptera,true bugs,Anisolabididae,earwigs,1,159,160,59
+house.bed.Hemiptera (true bugs).Anthocoridae (minute pirate bugs),bed,Hemiptera,true bugs,Anthocoridae,minute pirate bugs,9,151,160,59
+house.bed.Hemiptera (true bugs).Aphididae (aphids),bed,Hemiptera,true bugs,Aphididae,aphids,10,150,160,59
+house.bed.Hemiptera (true bugs).Blissidae (true bugs),bed,Hemiptera,true bugs,Blissidae,true bugs,1,159,160,59
+house.bed.Hemiptera (true bugs).Cicadellidae (leafhoppers),bed,Hemiptera,true bugs,Cicadellidae,leafhoppers,22,138,160,59
+house.bed.Hemiptera (true bugs).Cixiidae (cixiid planthoppers),bed,Hemiptera,true bugs,Cixiidae,cixiid planthoppers,1,159,160,59
+house.bed.Hemiptera (true bugs).Coreidae (leaf-footed bugs),bed,Hemiptera,true bugs,Coreidae,leaf-footed bugs,2,158,160,59
+house.bed.Hemiptera (true bugs).Cydnidae (burrowing bugs),bed,Hemiptera,true bugs,Cydnidae,burrowing bugs,3,157,160,59
+house.bed.Hemiptera (true bugs).Delphacidae (Delphacid planthoppers),bed,Hemiptera,true bugs,Delphacidae,Delphacid planthoppers,1,159,160,59
+house.bed.Hemiptera (true bugs).Lygaeidae (seed bugs),bed,Hemiptera,true bugs,Lygaeidae,seed bugs,2,158,160,59
+house.bed.Hemiptera (true bugs).Membracidae (treehoppers),bed,Hemiptera,true bugs,Membracidae,treehoppers,1,159,160,59
+house.bed.Hemiptera (true bugs).Miridae (plant bugs),bed,Hemiptera,true bugs,Miridae,plant bugs,9,151,160,59
+house.bed.Hemiptera (true bugs).Pentatomidae (stink bugs),bed,Hemiptera,true bugs,Pentatomidae,stink bugs,5,155,160,59
+house.bed.Hemiptera (true bugs).Platygastridae (parasitic wasps),bed,Hemiptera,true bugs,Platygastridae,parasitic wasps,1,159,160,59
+house.bed.Hemiptera (true bugs).Reduviidae (assassin bugs),bed,Hemiptera,true bugs,Reduviidae,assassin bugs,3,157,160,59
+house.bed.Hemiptera (true bugs).Rhyparochromidae (dirt colored seed bugs),bed,Hemiptera,true bugs,Rhyparochromidae,dirt colored seed bugs,3,157,160,59
+house.bed.Hemiptera (true bugs).Tingidae (lace bugs),bed,Hemiptera,true bugs,Tingidae,lace bugs,2,158,160,59
+house.bed.Hemiptera (true bugs).Un ID family,bed,Hemiptera,true bugs,Un ID family,,2,158,160,59
+"house.bed.Hymenoptera (bees, wasps, ants).Anthophila (Apoidea) (bees)",bed,Hymenoptera,"bees, wasps, ants",Anthophila,Apoidea,1,159,160,126
+"house.bed.Hymenoptera (bees, wasps, ants).Aphelinidae (chalcid wasp)",bed,Hymenoptera,"bees, wasps, ants",Aphelinidae,chalcid wasp,1,159,160,126
+"house.bed.Hymenoptera (bees, wasps, ants).Bethylidae (cuckoo wasps)",bed,Hymenoptera,"bees, wasps, ants",Bethylidae,cuckoo wasps,4,156,160,126
+"house.bed.Hymenoptera (bees, wasps, ants).Braconidae (parasitoid wasps)",bed,Hymenoptera,"bees, wasps, ants",Braconidae,parasitoid wasps,14,146,160,126
+"house.bed.Hymenoptera (bees, wasps, ants).Chalcididae (Chalcid wasps)",bed,Hymenoptera,"bees, wasps, ants",Chalcididae,Chalcid wasps,3,157,160,126
+"house.bed.Hymenoptera (bees, wasps, ants).Chrysididae (cuckoo wasps)",bed,Hymenoptera,"bees, wasps, ants",Chrysididae,cuckoo wasps,1,159,160,126
+"house.bed.Hymenoptera (bees, wasps, ants).Diapriidae (parasitic wasps)",bed,Hymenoptera,"bees, wasps, ants",Diapriidae,parasitic wasps,2,158,160,126
+"house.bed.Hymenoptera (bees, wasps, ants).Encyrtidae (chalcid wasps)",bed,Hymenoptera,"bees, wasps, ants",Encyrtidae,chalcid wasps,1,159,160,126
+"house.bed.Hymenoptera (bees, wasps, ants).Encyrtidae (Chalcid wasps)",bed,Hymenoptera,"bees, wasps, ants",Encyrtidae,Chalcid wasps,3,157,160,126
+"house.bed.Hymenoptera (bees, wasps, ants).Eulophidae (chalcid wasps)",bed,Hymenoptera,"bees, wasps, ants",Eulophidae,chalcid wasps,27,133,160,126
+"house.bed.Hymenoptera (bees, wasps, ants).Formicidae (ants)",bed,Hymenoptera,"bees, wasps, ants",Formicidae,ants,106,54,160,126
+"house.bed.Hymenoptera (bees, wasps, ants).Ichneumonidae (scorpion wasps)",bed,Hymenoptera,"bees, wasps, ants",Ichneumonidae,scorpion wasps,7,153,160,126
+"house.bed.Hymenoptera (bees, wasps, ants).Megachilidae (leaf cutter & mason bees)",bed,Hymenoptera,"bees, wasps, ants",Megachilidae,leaf cutter & mason bees,1,159,160,126
+"house.bed.Hymenoptera (bees, wasps, ants).Perilampidae (chalcid wasps)",bed,Hymenoptera,"bees, wasps, ants",Perilampidae,chalcid wasps,1,159,160,126
+"house.bed.Hymenoptera (bees, wasps, ants).Platygastridae (parasitic wasps)",bed,Hymenoptera,"bees, wasps, ants",Platygastridae,parasitic wasps,9,151,160,126
+"house.bed.Hymenoptera (bees, wasps, ants).Platygastridae (parasitic wasps) (parasitoid wasps)",bed,Hymenoptera,"bees, wasps, ants",Platygastridae,parasitic wasps,2,158,160,126
+"house.bed.Hymenoptera (bees, wasps, ants).Pompilidae (spider wasps)",bed,Hymenoptera,"bees, wasps, ants",Pompilidae,spider wasps,9,151,160,126
+"house.bed.Hymenoptera (bees, wasps, ants).Proctotrupidae (parasitic wasps)",bed,Hymenoptera,"bees, wasps, ants",Proctotrupidae,parasitic wasps,1,159,160,126
+"house.bed.Hymenoptera (bees, wasps, ants).Pteromalidae (Pteromalid wasps)",bed,Hymenoptera,"bees, wasps, ants",Pteromalidae,Pteromalid wasps,6,154,160,126
+"house.bed.Hymenoptera (bees, wasps, ants).Sphecidae (thread-waisted wasps)",bed,Hymenoptera,"bees, wasps, ants",Sphecidae,thread-waisted wasps,6,154,160,126
+"house.bed.Hymenoptera (bees, wasps, ants).Torymidae (chalcid wasps)",bed,Hymenoptera,"bees, wasps, ants",Torymidae,chalcid wasps,2,158,160,126
+"house.bed.Hymenoptera (bees, wasps, ants).Un ID family",bed,Hymenoptera,"bees, wasps, ants",Un ID family,,1,159,160,126
+"house.bed.Hymenoptera (bees, wasps, ants).Vespidae (yellowjackets, etc)",bed,Hymenoptera,"bees, wasps, ants",Vespidae,"yellowjackets, etc",3,157,160,126
+"house.bed.Isopoda (woodlice, pillbugs, roly-poly's).Armadillidiidae (pillbugs)",bed,Isopoda,"woodlice, pillbugs, roly-poly's",Armadillidiidae,pillbugs,30,130,160,32
+"house.bed.Isopoda (woodlice, pillbugs, roly-poly's).Porcellionidae (woodlice)",bed,Isopoda,"woodlice, pillbugs, roly-poly's",Porcellionidae,woodlice,6,154,160,32
+"house.bed.Isopoda (woodlice, pillbugs, roly-poly's).Un ID family",bed,Isopoda,"woodlice, pillbugs, roly-poly's",Un ID family,,1,159,160,32
+house.bed.Isoptera (termites).Rhinotermitidae (subterranean termites),bed,Isoptera,termites,Rhinotermitidae,subterranean termites,7,153,160,7
+house.bed.Julida (millipedes).Julidae (millipedes),bed,Julida,millipedes,Julidae,millipedes,4,156,160,4
+house.bed.Julida (millipedes).Un ID family,bed,Julida,millipedes,Un ID family,,1,159,160,4
+"house.bed.Lepidoptera (moths, butterflies).Erebidae (moths)",bed,Lepidoptera,"moths, butterflies",Erebidae,moths,1,159,160,54
+"house.bed.Lepidoptera (moths, butterflies).Gelechiidae (twirler moths)",bed,Lepidoptera,"moths, butterflies",Gelechiidae,twirler moths,1,159,160,54
+"house.bed.Lepidoptera (moths, butterflies).Geometridae (geometrid moths)",bed,Lepidoptera,"moths, butterflies",Geometridae,geometrid moths,3,157,160,54
+"house.bed.Lepidoptera (moths, butterflies).Noctuidae (owlet moths)",bed,Lepidoptera,"moths, butterflies",Noctuidae,owlet moths,8,152,160,54
+"house.bed.Lepidoptera (moths, butterflies).Pyralidae (pyralid moths)",bed,Lepidoptera,"moths, butterflies",Pyralidae,pyralid moths,20,140,160,54
+"house.bed.Lepidoptera (moths, butterflies).Tineidae (clothes moths)",bed,Lepidoptera,"moths, butterflies",Tineidae,clothes moths,15,145,160,54
+"house.bed.Lepidoptera (moths, butterflies).Tortricidae (leafroller moths)",bed,Lepidoptera,"moths, butterflies",Tortricidae,leafroller moths,1,159,160,54
+"house.bed.Lepidoptera (moths, butterflies).Un ID family",bed,Lepidoptera,"moths, butterflies",Un ID family,,20,140,160,54
+house.bed.Lithobiomorpha (stone centipedes).Lithobiidae (stone centipedes),bed,Lithobiomorpha,stone centipedes,Lithobiidae,stone centipedes,3,157,160,3
+house.bed.Microcoryphia (bristletails).Machilidae (jumping bristletails),bed,Microcoryphia,bristletails,Machilidae,jumping bristletails,2,158,160,3
+house.bed.Microcoryphia (bristletails).Un ID family,bed,Microcoryphia,bristletails,Un ID family,,1,159,160,3
+house.bed.Neuroptera (lacewings).Chrysopidae (green lacewings),bed,Neuroptera,lacewings,Chrysopidae,green lacewings,4,156,160,7
+house.bed.Neuroptera (lacewings).Coniopterygidae (dustywings),bed,Neuroptera,lacewings,Coniopterygidae,dustywings,2,158,160,7
+house.bed.Neuroptera (lacewings).Myrmeleontidae (ant lions),bed,Neuroptera,lacewings,Myrmeleontidae,ant lions,1,159,160,7
+house.bed.No specimens.No specimens,bed,No specimens,,No specimens,,1,159,160,1
+house.bed.Opiliones (harvestmen).Phalangiidae (harvestmen),bed,Opiliones,harvestmen,Phalangiidae,harvestmen,1,159,160,4
+house.bed.Opiliones (harvestmen).Un ID family,bed,Opiliones,harvestmen,Un ID family,,3,157,160,4
+"house.bed.Orthoptera (grasshoppers, etc).Gryllidae (crickets)",bed,Orthoptera,"grasshoppers, etc",Gryllidae,crickets,6,154,160,18
+"house.bed.Orthoptera (grasshoppers, etc).Mogoplistidae (scaly crickets)",bed,Orthoptera,"grasshoppers, etc",Mogoplistidae,scaly crickets,1,159,160,18
+"house.bed.Orthoptera (grasshoppers, etc).Rhaphidophoridae (camel crickets)",bed,Orthoptera,"grasshoppers, etc",Rhaphidophoridae,camel crickets,11,149,160,18
+house.bed.Polydesmida (flat-backed millipedes).Paradoxosomatidae (millipedes),bed,Polydesmida,flat-backed millipedes,Paradoxosomatidae,millipedes,15,145,160,21
+house.bed.Polydesmida (flat-backed millipedes).Polydesmidae (flat-backed millipedes),bed,Polydesmida,flat-backed millipedes,Polydesmidae,flat-backed millipedes,2,158,160,21
+house.bed.Polydesmida (flat-backed millipedes).Un ID family,bed,Polydesmida,flat-backed millipedes,Un ID family,,4,156,160,21
+house.bed.Pseudoscorpiones (pseudoscorpions).Un ID family,bed,Pseudoscorpiones,pseudoscorpions,Un ID family,,1,159,160,1
+"house.bed.Psocodea (barklice, booklice, parasitic lice).Caeciliusidae (lizard barklice)",bed,Psocodea,"barklice, booklice, parasitic lice",Caeciliusidae,lizard barklice,1,159,160,81
+"house.bed.Psocodea (barklice, booklice, parasitic lice).Ectopsocidae (outer barklice)",bed,Psocodea,"barklice, booklice, parasitic lice",Ectopsocidae,outer barklice,4,156,160,81
+"house.bed.Psocodea (barklice, booklice, parasitic lice).Hemipsocidae (leaf litter barklice)",bed,Psocodea,"barklice, booklice, parasitic lice",Hemipsocidae,leaf litter barklice,1,159,160,81
+"house.bed.Psocodea (barklice, booklice, parasitic lice).Lepidopsocidae (scaly winged barklice)",bed,Psocodea,"barklice, booklice, parasitic lice",Lepidopsocidae,scaly winged barklice,9,151,160,81
+"house.bed.Psocodea (barklice, booklice, parasitic lice).Liposcelididae (booklice)",bed,Psocodea,"barklice, booklice, parasitic lice",Liposcelididae,booklice,71,89,160,81
+"house.bed.Psocodea (barklice, booklice, parasitic lice).Mesopsocidae (middle barklice)",bed,Psocodea,"barklice, booklice, parasitic lice",Mesopsocidae,middle barklice,1,159,160,81
+"house.bed.Psocodea (barklice, booklice, parasitic lice).Stenopsocidae (narrow barklice)",bed,Psocodea,"barklice, booklice, parasitic lice",Stenopsocidae,narrow barklice,1,159,160,81
+"house.bed.Psocodea (barklice, booklice, parasitic lice).Un ID family",bed,Psocodea,"barklice, booklice, parasitic lice",Un ID family,,18,142,160,81
+house.bed.Scolopendromorpha (tropical centipedes).Scolopendridae (tropical centipedes),bed,Scolopendromorpha,tropical centipedes,Scolopendridae,tropical centipedes,3,157,160,3
+house.bed.Scutigeromorpha (house centipedes).Scutigeridae (house centipedes),bed,Scutigeromorpha,house centipedes,Scutigeridae,house centipedes,11,149,160,11
+house.bed.Siphonaptera (fleas).Pulicidae (fleas),bed,Siphonaptera,fleas,Pulicidae,fleas,2,158,160,2
+house.bed.Thysanoptera (thrips).Phlaeothripidae (tube tailed thrips),bed,Thysanoptera,thrips,Phlaeothripidae,tube tailed thrips,1,159,160,7
+house.bed.Thysanoptera (thrips).Thripidae (thrips),bed,Thysanoptera,thrips,Thripidae,thrips,4,156,160,7
+house.bed.Thysanoptera (thrips).Un ID family,bed,Thysanoptera,thrips,Un ID family,,3,157,160,7
+house.bed.Trichoptera (caddisflies).Hydropsychidae (netspinning caddisflies),bed,Trichoptera,caddisflies,Hydropsychidae,netspinning caddisflies,1,159,160,2
+house.bed.Trichoptera (caddisflies).Un ID family,bed,Trichoptera,caddisflies,Un ID family,,1,159,160,2
+house.bed.Zygentoma (silverfish).Lepismatidae (silverfish),bed,Zygentoma,silverfish,Lepismatidae,silverfish,37,123,160,37
+"house.common.Acari (mites, ticks).Galumnidae (mites)",common,Acari,"mites, ticks",Galumnidae,mites,4,93,97,35
+"house.common.Acari (mites, ticks).Ixodidae (hard ticks)",common,Acari,"mites, ticks",Ixodidae,hard ticks,7,90,97,35
+"house.common.Acari (mites, ticks).Oribatida (moss mites)",common,Acari,"mites, ticks",Oribatida,moss mites,12,85,97,35
+"house.common.Acari (mites, ticks).Trombidiidae (velvet mites)",common,Acari,"mites, ticks",Trombidiidae,velvet mites,1,96,97,35
+"house.common.Acari (mites, ticks).Un ID family",common,Acari,"mites, ticks",Un ID family,,25,72,97,35
+house.common.Araneae (spiders).Agelenidae (funnel weavers),common,Araneae,spiders,Agelenidae,funnel weavers,16,81,97,94
+house.common.Araneae (spiders).Anyphaenidae (ghost spiders),common,Araneae,spiders,Anyphaenidae,ghost spiders,11,86,97,94
+house.common.Araneae (spiders).Araneidae (orb weavers),common,Araneae,spiders,Araneidae,orb weavers,6,91,97,94
+house.common.Araneae (spiders).Clubionidae (sac spiders),common,Araneae,spiders,Clubionidae,sac spiders,4,93,97,94
+"house.common.Araneae (spiders).Corinnidae (antmimics, ground spiders)",common,Araneae,spiders,Corinnidae,"antmimics, ground spiders",11,86,97,94
+"house.common.Araneae (spiders).Dysderidae (woodlouse hunters, cell spiders)",common,Araneae,spiders,Dysderidae,"woodlouse hunters, cell spiders",1,96,97,94
+house.common.Araneae (spiders).Filistatidae (crevice weavers),common,Araneae,spiders,Filistatidae,crevice weavers,1,96,97,94
+house.common.Araneae (spiders).Gnaphosidae (ground spiders),common,Araneae,spiders,Gnaphosidae,ground spiders,20,77,97,94
+house.common.Araneae (spiders).Linyphiidae (sheetweb & dwarf spiders),common,Araneae,spiders,Linyphiidae,sheetweb & dwarf spiders,10,87,97,94
+house.common.Araneae (spiders).Lycosidae (wolf spiders),common,Araneae,spiders,Lycosidae,wolf spiders,16,81,97,94
+house.common.Araneae (spiders).Miturgidae (prowling spiders),common,Araneae,spiders,Miturgidae,prowling spiders,1,96,97,94
+house.common.Araneae (spiders).Oecobiidae (wall spiders),common,Araneae,spiders,Oecobiidae,wall spiders,18,79,97,94
+house.common.Araneae (spiders).Oonopidae (goblin spiders),common,Araneae,spiders,Oonopidae,goblin spiders,6,91,97,94
+house.common.Araneae (spiders).Pholcidae (cellar spiders),common,Araneae,spiders,Pholcidae,cellar spiders,55,42,97,94
+house.common.Araneae (spiders).Salticidae (jumping spider),common,Araneae,spiders,Salticidae,jumping spider,22,75,97,94
+house.common.Araneae (spiders).Scytodidae (spitting spider),common,Araneae,spiders,Scytodidae,spitting spider,4,93,97,94
+house.common.Araneae (spiders).Tetragnathidae (long jawed orb weaver),common,Araneae,spiders,Tetragnathidae,long jawed orb weaver,1,96,97,94
+house.common.Araneae (spiders).Theridiidae (cobweb spiders),common,Araneae,spiders,Theridiidae,cobweb spiders,85,12,97,94
+house.common.Araneae (spiders).Thomisidae (crab spiders),common,Araneae,spiders,Thomisidae,crab spiders,9,88,97,94
+house.common.Araneae (spiders).Un ID family,common,Araneae,spiders,Un ID family,,18,79,97,94
+house.common.Blattodea (cockroaches).Blattellidae (cockroaches),common,Blattodea,cockroaches,Blattellidae,cockroaches,10,87,97,42
+house.common.Blattodea (cockroaches).Blattidae (cockroaches),common,Blattodea,cockroaches,Blattidae,cockroaches,39,58,97,42
+house.common.Callipodida (crested millipedes).Abacionidae (millipedes),common,Callipodida,crested millipedes,Abacionidae,millipedes,3,94,97,3
+house.common.Coleoptera (beetles).Aderidae (antlike leaf beetles),common,Coleoptera,beetles,Aderidae,antlike leaf beetles,5,92,97,89
+house.common.Coleoptera (beetles).Anobiidae (death watch beetles),common,Coleoptera,beetles,Anobiidae,death watch beetles,30,67,97,89
+house.common.Coleoptera (beetles).Anthicidae (antlike flower beetles),common,Coleoptera,beetles,Anthicidae,antlike flower beetles,7,90,97,89
+house.common.Coleoptera (beetles).Anthribidae (fungus weevils),common,Coleoptera,beetles,Anthribidae,fungus weevils,2,95,97,89
+house.common.Coleoptera (beetles).Biphyllidae (false skin beetles),common,Coleoptera,beetles,Biphyllidae,false skin beetles,1,96,97,89
+house.common.Coleoptera (beetles).Bostrichidae (horned powder-post beetles),common,Coleoptera,beetles,Bostrichidae,horned powder-post beetles,1,96,97,89
+house.common.Coleoptera (beetles).Cantharidae (soldier beetles),common,Coleoptera,beetles,Cantharidae,soldier beetles,3,94,97,89
+house.common.Coleoptera (beetles).Carabidae (ground beetles),common,Coleoptera,beetles,Carabidae,ground beetles,14,83,97,89
+house.common.Coleoptera (beetles).Cerambycidae (longhorned beetles),common,Coleoptera,beetles,Cerambycidae,longhorned beetles,3,94,97,89
+house.common.Coleoptera (beetles).Chrysomelidae (leaf beetles),common,Coleoptera,beetles,Chrysomelidae,leaf beetles,17,80,97,89
+house.common.Coleoptera (beetles).Clambidae (minute beetles),common,Coleoptera,beetles,Clambidae,minute beetles,1,96,97,89
+house.common.Coleoptera (beetles).Cleridae (checkered beetles),common,Coleoptera,beetles,Cleridae,checkered beetles,3,94,97,89
+house.common.Coleoptera (beetles).Coccinellidae (ladybugs),common,Coleoptera,beetles,Coccinellidae,ladybugs,22,75,97,89
+house.common.Coleoptera (beetles).Corylophidae (minute hooded beetles),common,Coleoptera,beetles,Corylophidae,minute hooded beetles,4,93,97,89
+house.common.Coleoptera (beetles).Cryptophagidae (silken fungus beetles),common,Coleoptera,beetles,Cryptophagidae,silken fungus beetles,12,85,97,89
+house.common.Coleoptera (beetles).Curculionidae (snout & bark beetles),common,Coleoptera,beetles,Curculionidae,snout & bark beetles,33,64,97,89
+house.common.Coleoptera (beetles).Dermestidae (carpet beetles),common,Coleoptera,beetles,Dermestidae,carpet beetles,80,17,97,89
+house.common.Coleoptera (beetles).Elateridae (click beetles),common,Coleoptera,beetles,Elateridae,click beetles,38,59,97,89
+house.common.Coleoptera (beetles).Endomychidae (handsome fungus beetles),common,Coleoptera,beetles,Endomychidae,handsome fungus beetles,3,94,97,89
+house.common.Coleoptera (beetles).Erotylidae (pleasing fungus beetles),common,Coleoptera,beetles,Erotylidae,pleasing fungus beetles,1,96,97,89
+house.common.Coleoptera (beetles).Eucnemidae (false click beetles),common,Coleoptera,beetles,Eucnemidae,false click beetles,2,95,97,89
+house.common.Coleoptera (beetles).Geotrupidae (earth boring scarab beetles),common,Coleoptera,beetles,Geotrupidae,earth boring scarab beetles,1,96,97,89
+house.common.Coleoptera (beetles).Heteroceridae (mud-loving beetles),common,Coleoptera,beetles,Heteroceridae,mud-loving beetles,1,96,97,89
+house.common.Coleoptera (beetles).Histeridae (clown beetles),common,Coleoptera,beetles,Histeridae,clown beetles,2,95,97,89
+house.common.Coleoptera (beetles).Hydrophilidae (water scavenger beetles),common,Coleoptera,beetles,Hydrophilidae,water scavenger beetles,1,96,97,89
+house.common.Coleoptera (beetles).Laemophloeidae (lined flat bark beetles),common,Coleoptera,beetles,Laemophloeidae,lined flat bark beetles,1,96,97,89
+house.common.Coleoptera (beetles).Lampyridae (fireflies),common,Coleoptera,beetles,Lampyridae,fireflies,6,91,97,89
+house.common.Coleoptera (beetles).Latridiidae (minute brown scavenger beetles),common,Coleoptera,beetles,Latridiidae,minute brown scavenger beetles,16,81,97,89
+house.common.Coleoptera (beetles).Leiodidae (round fungus beetles),common,Coleoptera,beetles,Leiodidae,round fungus beetles,3,94,97,89
+house.common.Coleoptera (beetles).Lucanidae (stag beetles),common,Coleoptera,beetles,Lucanidae,stag beetles,1,96,97,89
+house.common.Coleoptera (beetles).Melandryidae (false darkling beetles),common,Coleoptera,beetles,Melandryidae,false darkling beetles,1,96,97,89
+house.common.Coleoptera (beetles).Melyridae (soft winged flower beetles),common,Coleoptera,beetles,Melyridae,soft winged flower beetles,5,92,97,89
+house.common.Coleoptera (beetles).Micromalthidae (telephone pole beetle),common,Coleoptera,beetles,Micromalthidae,telephone pole beetle,1,96,97,89
+house.common.Coleoptera (beetles).Monotomidae (root-eating beetles),common,Coleoptera,beetles,Monotomidae,root-eating beetles,1,96,97,89
+house.common.Coleoptera (beetles).Mordellidae (tumbling flower beetles),common,Coleoptera,beetles,Mordellidae,tumbling flower beetles,8,89,97,89
+house.common.Coleoptera (beetles).Mycetophagidae (hairy fungus beetles),common,Coleoptera,beetles,Mycetophagidae,hairy fungus beetles,4,93,97,89
+house.common.Coleoptera (beetles).Nitidulidae (sap beetles),common,Coleoptera,beetles,Nitidulidae,sap beetles,10,87,97,89
+house.common.Coleoptera (beetles).Phalacridae (shining flower beetles),common,Coleoptera,beetles,Phalacridae,shining flower beetles,5,92,97,89
+house.common.Coleoptera (beetles).Ptiliidae (featherwing beetles),common,Coleoptera,beetles,Ptiliidae,featherwing beetles,2,95,97,89
+house.common.Coleoptera (beetles).Ptilodactylidae (toe winged beetles),common,Coleoptera,beetles,Ptilodactylidae,toe winged beetles,9,88,97,89
+house.common.Coleoptera (beetles).Scarabaeidae (scarab beetles),common,Coleoptera,beetles,Scarabaeidae,scarab beetles,20,77,97,89
+house.common.Coleoptera (beetles).Scraptiidae (false flower beetles),common,Coleoptera,beetles,Scraptiidae,false flower beetles,6,91,97,89
+house.common.Coleoptera (beetles).Scydmaenidae (ant like stone beetles),common,Coleoptera,beetles,Scydmaenidae,ant like stone beetles,1,96,97,89
+house.common.Coleoptera (beetles).Silvanidae (flat bark beetles),common,Coleoptera,beetles,Silvanidae,flat bark beetles,17,80,97,89
+house.common.Coleoptera (beetles).Staphylinidae (rove beetles),common,Coleoptera,beetles,Staphylinidae,rove beetles,17,80,97,89
+house.common.Coleoptera (beetles).Tenebrionidae (darkling beetles),common,Coleoptera,beetles,Tenebrionidae,darkling beetles,24,73,97,89
+house.common.Coleoptera (beetles).Throscidae (false metallic wood boring beetles),common,Coleoptera,beetles,Throscidae,false metallic wood boring beetles,9,88,97,89
+house.common.Coleoptera (beetles).Trogidae (hide beetles),common,Coleoptera,beetles,Trogidae,hide beetles,1,96,97,89
+house.common.Coleoptera (beetles).Trogossitidae (bark gnawing beetles),common,Coleoptera,beetles,Trogossitidae,bark gnawing beetles,6,91,97,89
+house.common.Coleoptera (beetles).Un ID family,common,Coleoptera,beetles,Un ID family,,8,89,97,89
+house.common.Coleoptera (beetles).Zopheridae (ironclad beetles),common,Coleoptera,beetles,Zopheridae,ironclad beetles,1,96,97,89
+house.common.Collembola (springtails).Entomobryidae (slender springtails),common,Collembola,springtails,Entomobryidae,slender springtails,28,69,97,36
+house.common.Collembola (springtails).Hypogastruridae (springtails),common,Collembola,springtails,Hypogastruridae,springtails,1,96,97,36
+house.common.Collembola (springtails).Sminthuridae (globular springtails),common,Collembola,springtails,Sminthuridae,globular springtails,2,95,97,36
+house.common.Collembola (springtails).Tomoceridae (elongate bodied springtails),common,Collembola,springtails,Tomoceridae,elongate bodied springtails,9,88,97,36
+house.common.Collembola (springtails).Un ID family,common,Collembola,springtails,Un ID family,,2,95,97,36
+house.common.Dermaptera (earwigs).Anisolabididae (earwigs),common,Dermaptera,earwigs,Anisolabididae,earwigs,6,91,97,14
+house.common.Dermaptera (earwigs).Forficulidae (earwigs),common,Dermaptera,earwigs,Forficulidae,earwigs,6,91,97,14
+house.common.Dermaptera (earwigs).Spongiphoridae (little earwigs),common,Dermaptera,earwigs,Spongiphoridae,little earwigs,1,96,97,14
+house.common.Dermaptera (earwigs).Un ID family,common,Dermaptera,earwigs,Un ID family,,2,95,97,14
+house.common.Diptera (flies).Agromyzidae (leaf miner flies),common,Diptera,flies,Agromyzidae,leaf miner flies,3,94,97,83
+house.common.Diptera (flies).Anisopodidae (wood gnats),common,Diptera,flies,Anisopodidae,wood gnats,3,94,97,83
+house.common.Diptera (flies).Anthocoridae (minute pirate bugs),common,Diptera,flies,Anthocoridae,minute pirate bugs,1,96,97,83
+house.common.Diptera (flies).Anthomyiidae (root maggot flies),common,Diptera,flies,Anthomyiidae,root maggot flies,1,96,97,83
+house.common.Diptera (flies).Asilidae (robber flies),common,Diptera,flies,Asilidae,robber flies,1,96,97,83
+"house.common.Diptera (flies).Bibionidae (march flies, lovebugs)",common,Diptera,flies,Bibionidae,"march flies, lovebugs",7,90,97,83
+house.common.Diptera (flies).Calliphoridae (blow flies),common,Diptera,flies,Calliphoridae,blow flies,23,74,97,83
+house.common.Diptera (flies).Carnidae (acalyptrate flies),common,Diptera,flies,Carnidae,acalyptrate flies,1,96,97,83
+house.common.Diptera (flies).Cecidomyiidae (gall midges),common,Diptera,flies,Cecidomyiidae,gall midges,62,35,97,83
+house.common.Diptera (flies).Ceratopogonidae (biting midges),common,Diptera,flies,Ceratopogonidae,biting midges,18,79,97,83
+house.common.Diptera (flies).Chaoboridae (phantom midges),common,Diptera,flies,Chaoboridae,phantom midges,8,89,97,83
+house.common.Diptera (flies).Chironomidae (non biting midges),common,Diptera,flies,Chironomidae,non biting midges,41,56,97,83
+house.common.Diptera (flies).Chloropidae (frit flies),common,Diptera,flies,Chloropidae,frit flies,10,87,97,83
+house.common.Diptera (flies).Chyromyidae (acalyptrate flies),common,Diptera,flies,Chyromyidae,acalyptrate flies,1,96,97,83
+house.common.Diptera (flies).Culicidae (mosquitoes),common,Diptera,flies,Culicidae,mosquitoes,40,57,97,83
+house.common.Diptera (flies).Dolichopodidae (longlegged flies),common,Diptera,flies,Dolichopodidae,longlegged flies,12,85,97,83
+"house.common.Diptera (flies).Drosophilidae (fruit flies, vinegar flies)",common,Diptera,flies,Drosophilidae,"fruit flies, vinegar flies",29,68,97,83
+house.common.Diptera (flies).Empididae (dance flies),common,Diptera,flies,Empididae,dance flies,6,91,97,83
+house.common.Diptera (flies).Ephydridae (shore flies),common,Diptera,flies,Ephydridae,shore flies,6,91,97,83
+house.common.Diptera (flies).Fanniidae (Calyptrate flies),common,Diptera,flies,Fanniidae,Calyptrate flies,1,96,97,83
+house.common.Diptera (flies).Hyboxidae (dance flies),common,Diptera,flies,Hyboxidae,dance flies,1,96,97,83
+house.common.Diptera (flies).Lauxaniidae (acalyptrate flies),common,Diptera,flies,Lauxaniidae,acalyptrate flies,6,91,97,83
+house.common.Diptera (flies).Milichiidae (freeloader flies),common,Diptera,flies,Milichiidae,freeloader flies,4,93,97,83
+house.common.Diptera (flies).Muscidae (house flies),common,Diptera,flies,Muscidae,house flies,16,81,97,83
+house.common.Diptera (flies).Mycetophilidae (fungus gnats),common,Diptera,flies,Mycetophilidae,fungus gnats,36,61,97,83
+house.common.Diptera (flies).Phoridae (scuttle flies),common,Diptera,flies,Phoridae,scuttle flies,38,59,97,83
+house.common.Diptera (flies).Pipunculidae (bigheaded flies),common,Diptera,flies,Pipunculidae,bigheaded flies,1,96,97,83
+house.common.Diptera (flies).Psychodidae (sand & moth flies),common,Diptera,flies,Psychodidae,sand & moth flies,40,57,97,83
+house.common.Diptera (flies).Rhinophoridae (woodlouse flies),common,Diptera,flies,Rhinophoridae,woodlouse flies,3,94,97,83
+house.common.Diptera (flies).Sarcophagidae (flesh flies),common,Diptera,flies,Sarcophagidae,flesh flies,12,85,97,83
+house.common.Diptera (flies).Scatopsidae (minute black scavenger flies),common,Diptera,flies,Scatopsidae,minute black scavenger flies,16,81,97,83
+house.common.Diptera (flies).Scenopinidae (window flies),common,Diptera,flies,Scenopinidae,window flies,1,96,97,83
+house.common.Diptera (flies).Sciaridae (dark winged fungus gnats),common,Diptera,flies,Sciaridae,dark winged fungus gnats,63,34,97,83
+house.common.Diptera (flies).Sphaeroceridae (lesser dung flies),common,Diptera,flies,Sphaeroceridae,lesser dung flies,5,92,97,83
+house.common.Diptera (flies).Stratiomyidae (soldier flies),common,Diptera,flies,Stratiomyidae,soldier flies,8,89,97,83
+house.common.Diptera (flies).Syrphidae (hover flies),common,Diptera,flies,Syrphidae,hover flies,2,95,97,83
+"house.common.Diptera (flies).Tabanidae (horse flies, deer flies)",common,Diptera,flies,Tabanidae,"horse flies, deer flies",3,94,97,83
+house.common.Diptera (flies).Tachinidae (Tachina flies),common,Diptera,flies,Tachinidae,Tachina flies,5,92,97,83
+house.common.Diptera (flies).Tephritidae (fruit flies),common,Diptera,flies,Tephritidae,fruit flies,3,94,97,83
+house.common.Diptera (flies).Tipulidae (large crane flies),common,Diptera,flies,Tipulidae,large crane flies,31,66,97,83
+house.common.Diptera (flies).Trichoceridae (winter crane flies),common,Diptera,flies,Trichoceridae,winter crane flies,6,91,97,83
+house.common.Diptera (flies).Un ID family,common,Diptera,flies,Un ID family,,6,91,97,83
+house.common.Diptera (flies).Xylomyidae (wood soldier flies),common,Diptera,flies,Xylomyidae,wood soldier flies,1,96,97,83
+house.common.Ephemeroptera (Mayflies).Heptageniidae (flat-headed mayflies),common,Ephemeroptera,Mayflies,Heptageniidae,flat-headed mayflies,1,96,97,1
+house.common.Geophilomorpha (soil centipedes).Un ID family,common,Geophilomorpha,soil centipedes,Un ID family,,4,93,97,4
+house.common.Hemiptera (true bugs).Acanaloniidae (Acanaloniid planthoppers),common,Hemiptera,true bugs,Acanaloniidae,Acanaloniid planthoppers,2,95,97,66
+house.common.Hemiptera (true bugs).Alydidae (broad-headed bugs),common,Hemiptera,true bugs,Alydidae,broad-headed bugs,2,95,97,66
+house.common.Hemiptera (true bugs).Anthocoridae (minute pirate bugs),common,Hemiptera,true bugs,Anthocoridae,minute pirate bugs,16,81,97,66
+house.common.Hemiptera (true bugs).Aphididae (aphids),common,Hemiptera,true bugs,Aphididae,aphids,15,82,97,66
+house.common.Hemiptera (true bugs).Berytidae (stilt bugs),common,Hemiptera,true bugs,Berytidae,stilt bugs,1,96,97,66
+house.common.Hemiptera (true bugs).Cercopidae (spittlebugs),common,Hemiptera,true bugs,Cercopidae,spittlebugs,2,95,97,66
+house.common.Hemiptera (true bugs).Cicadellidae (leafhoppers),common,Hemiptera,true bugs,Cicadellidae,leafhoppers,36,61,97,66
+house.common.Hemiptera (true bugs).Cicadidae (cicadas),common,Hemiptera,true bugs,Cicadidae,cicadas,1,96,97,66
+house.common.Hemiptera (true bugs).Cimicidae (bed bugs),common,Hemiptera,true bugs,Cimicidae,bed bugs,1,96,97,66
+house.common.Hemiptera (true bugs).Cixiidae (cixiid planthoppers),common,Hemiptera,true bugs,Cixiidae,cixiid planthoppers,3,94,97,66
+"house.common.Hemiptera (true bugs).Coccoidea (scales, mealybugs)",common,Hemiptera,true bugs,Coccoidea,"scales, mealybugs",1,96,97,66
+house.common.Hemiptera (true bugs).Coreidae (leaf-footed bugs),common,Hemiptera,true bugs,Coreidae,leaf-footed bugs,3,94,97,66
+house.common.Hemiptera (true bugs).Cydnidae (burrowing bugs),common,Hemiptera,true bugs,Cydnidae,burrowing bugs,8,89,97,66
+house.common.Hemiptera (true bugs).Delphacidae (Delphacid planthoppers),common,Hemiptera,true bugs,Delphacidae,Delphacid planthoppers,3,94,97,66
+house.common.Hemiptera (true bugs).Derbidae (derbid planthopppers),common,Hemiptera,true bugs,Derbidae,derbid planthopppers,1,96,97,66
+house.common.Hemiptera (true bugs).Dictyopharidae (dictyopharid planthoppers),common,Hemiptera,true bugs,Dictyopharidae,dictyopharid planthoppers,1,96,97,66
+house.common.Hemiptera (true bugs).Flatidae (flatid planthoppers),common,Hemiptera,true bugs,Flatidae,flatid planthoppers,1,96,97,66
+house.common.Hemiptera (true bugs).Geocoridae (big eyed bugs),common,Hemiptera,true bugs,Geocoridae,big eyed bugs,1,96,97,66
+house.common.Hemiptera (true bugs).Lasiochilidae (minute pirate bugs),common,Hemiptera,true bugs,Lasiochilidae,minute pirate bugs,1,96,97,66
+house.common.Hemiptera (true bugs).Lygaeidae (seed bugs),common,Hemiptera,true bugs,Lygaeidae,seed bugs,4,93,97,66
+house.common.Hemiptera (true bugs).Membracidae (treehoppers),common,Hemiptera,true bugs,Membracidae,treehoppers,1,96,97,66
+house.common.Hemiptera (true bugs).Miridae (plant bugs),common,Hemiptera,true bugs,Miridae,plant bugs,19,78,97,66
+house.common.Hemiptera (true bugs).Pentatomidae (stink bugs),common,Hemiptera,true bugs,Pentatomidae,stink bugs,5,92,97,66
+house.common.Hemiptera (true bugs).Psyllidae (jumping plant lice),common,Hemiptera,true bugs,Psyllidae,jumping plant lice,3,94,97,66
+house.common.Hemiptera (true bugs).Reduviidae (assassin bugs),common,Hemiptera,true bugs,Reduviidae,assassin bugs,11,86,97,66
+house.common.Hemiptera (true bugs).Rhyparochromidae (dirt colored seed bugs),common,Hemiptera,true bugs,Rhyparochromidae,dirt colored seed bugs,9,88,97,66
+house.common.Hemiptera (true bugs).Tingidae (lace bugs),common,Hemiptera,true bugs,Tingidae,lace bugs,4,93,97,66
+house.common.Hemiptera (true bugs).Un ID family,common,Hemiptera,true bugs,Un ID family,,8,89,97,66
+"house.common.Hymenoptera (bees, wasps, ants).Aphelinidae (chalcid wasp)",common,Hymenoptera,"bees, wasps, ants",Aphelinidae,chalcid wasp,2,95,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Apidae (bees)",common,Hymenoptera,"bees, wasps, ants",Apidae,bees,1,96,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Bethylidae (cuckoo wasps)",common,Hymenoptera,"bees, wasps, ants",Bethylidae,cuckoo wasps,14,83,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Braconidae (parasitoid wasps)",common,Hymenoptera,"bees, wasps, ants",Braconidae,parasitoid wasps,19,78,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Ceraphronidae (parasitic wasps)",common,Hymenoptera,"bees, wasps, ants",Ceraphronidae,parasitic wasps,7,90,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Chalcididae (Chalcid wasps)",common,Hymenoptera,"bees, wasps, ants",Chalcididae,Chalcid wasps,4,93,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Chrysididae (cuckoo wasps)",common,Hymenoptera,"bees, wasps, ants",Chrysididae,cuckoo wasps,1,96,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Cynipidae (gall wasps)",common,Hymenoptera,"bees, wasps, ants",Cynipidae,gall wasps,3,94,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Diapriidae (parasitic wasps)",common,Hymenoptera,"bees, wasps, ants",Diapriidae,parasitic wasps,8,89,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Encyrtidae (chalcid wasps)",common,Hymenoptera,"bees, wasps, ants",Encyrtidae,chalcid wasps,3,94,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Encyrtidae (Chalcid wasps)",common,Hymenoptera,"bees, wasps, ants",Encyrtidae,Chalcid wasps,4,93,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Eulophidae (chalcid wasps)",common,Hymenoptera,"bees, wasps, ants",Eulophidae,chalcid wasps,30,67,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Eurytomidae (chalcid wasps)",common,Hymenoptera,"bees, wasps, ants",Eurytomidae,chalcid wasps,3,94,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Figitidae (parasitoid wasp)",common,Hymenoptera,"bees, wasps, ants",Figitidae,parasitoid wasp,2,95,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Formicidae (ants)",common,Hymenoptera,"bees, wasps, ants",Formicidae,ants,79,18,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Ichneumonidae (scorpion wasps)",common,Hymenoptera,"bees, wasps, ants",Ichneumonidae,scorpion wasps,9,88,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Megaspilidae (megaspilid wasps)",common,Hymenoptera,"bees, wasps, ants",Megaspilidae,megaspilid wasps,2,95,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Mutillidae (velvet ants)",common,Hymenoptera,"bees, wasps, ants",Mutillidae,velvet ants,2,95,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Mymaridae (fairyflies)",common,Hymenoptera,"bees, wasps, ants",Mymaridae,fairyflies,11,86,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Platygastridae (parasitic wasps)",common,Hymenoptera,"bees, wasps, ants",Platygastridae,parasitic wasps,27,70,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Platygastridae (parasitic wasps) (parasitoid wasps)",common,Hymenoptera,"bees, wasps, ants",Platygastridae,parasitic wasps,1,96,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Pompilidae (spider wasps)",common,Hymenoptera,"bees, wasps, ants",Pompilidae,spider wasps,17,80,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Pteromalidae (Pteromalid wasps)",common,Hymenoptera,"bees, wasps, ants",Pteromalidae,Pteromalid wasps,10,87,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Sphecidae (thread-waisted wasps)",common,Hymenoptera,"bees, wasps, ants",Sphecidae,thread-waisted wasps,6,91,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Torymidae (chalcid wasps)",common,Hymenoptera,"bees, wasps, ants",Torymidae,chalcid wasps,2,95,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Trichogrammatidae (Chalcid wasps)",common,Hymenoptera,"bees, wasps, ants",Trichogrammatidae,Chalcid wasps,1,96,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Un ID family",common,Hymenoptera,"bees, wasps, ants",Un ID family,,7,90,97,83
+"house.common.Hymenoptera (bees, wasps, ants).Vespidae (yellowjackets, etc)",common,Hymenoptera,"bees, wasps, ants",Vespidae,"yellowjackets, etc",3,94,97,83
+"house.common.Isopoda (woodlice, pillbugs, roly-poly's).Armadillidiidae (pillbugs)",common,Isopoda,"woodlice, pillbugs, roly-poly's",Armadillidiidae,pillbugs,32,65,97,33
+"house.common.Isopoda (woodlice, pillbugs, roly-poly's).Oniscidae (woodlice)",common,Isopoda,"woodlice, pillbugs, roly-poly's",Oniscidae,woodlice,1,96,97,33
+"house.common.Isopoda (woodlice, pillbugs, roly-poly's).Porcellionidae (woodlice)",common,Isopoda,"woodlice, pillbugs, roly-poly's",Porcellionidae,woodlice,5,92,97,33
+"house.common.Isopoda (woodlice, pillbugs, roly-poly's).Trachelipodidae (woodlice)",common,Isopoda,"woodlice, pillbugs, roly-poly's",Trachelipodidae,woodlice,2,95,97,33
+"house.common.Isopoda (woodlice, pillbugs, roly-poly's).Un ID family",common,Isopoda,"woodlice, pillbugs, roly-poly's",Un ID family,,8,89,97,33
+house.common.Isoptera (termites).Rhinotermitidae (subterranean termites),common,Isoptera,termites,Rhinotermitidae,subterranean termites,12,85,97,12
+house.common.Julida (millipedes).Julidae (millipedes),common,Julida,millipedes,Julidae,millipedes,8,89,97,9
+house.common.Julida (millipedes).Un ID family,common,Julida,millipedes,Un ID family,,1,96,97,9
+"house.common.Lepidoptera (moths, butterflies).Geometridae (geometrid moths)",common,Lepidoptera,"moths, butterflies",Geometridae,geometrid moths,2,95,97,55
+"house.common.Lepidoptera (moths, butterflies).Lymantriidae (tussock moths)",common,Lepidoptera,"moths, butterflies",Lymantriidae,tussock moths,2,95,97,55
+"house.common.Lepidoptera (moths, butterflies).Noctuidae (owlet moths)",common,Lepidoptera,"moths, butterflies",Noctuidae,owlet moths,12,85,97,55
+"house.common.Lepidoptera (moths, butterflies).Pieridae (white, yellow, sulphur butterflies)",common,Lepidoptera,"moths, butterflies",Pieridae,"white, yellow, sulphur butterflies",1,96,97,55
+"house.common.Lepidoptera (moths, butterflies).Pyralidae (pyralid moths)",common,Lepidoptera,"moths, butterflies",Pyralidae,pyralid moths,21,76,97,55
+"house.common.Lepidoptera (moths, butterflies).Tineidae (clothes moths)",common,Lepidoptera,"moths, butterflies",Tineidae,clothes moths,19,78,97,55
+"house.common.Lepidoptera (moths, butterflies).Tortricidae (leafroller moths)",common,Lepidoptera,"moths, butterflies",Tortricidae,leafroller moths,4,93,97,55
+"house.common.Lepidoptera (moths, butterflies).Un ID family",common,Lepidoptera,"moths, butterflies",Un ID family,,22,75,97,55
+"house.common.Lepidoptera (moths, butterflies).Yponomeutidae (Ermine moths)",common,Lepidoptera,"moths, butterflies",Yponomeutidae,Ermine moths,1,96,97,55
+house.common.Lithobiomorpha (stone centipedes).Lithobiidae (stone centipedes),common,Lithobiomorpha,stone centipedes,Lithobiidae,stone centipedes,2,95,97,5
+house.common.Lithobiomorpha (stone centipedes).Un ID family,common,Lithobiomorpha,stone centipedes,Un ID family,,3,94,97,5
+house.common.Microcoryphia (bristletails).Machilidae (jumping bristletails),common,Microcoryphia,bristletails,Machilidae,jumping bristletails,5,92,97,5
+house.common.Neuroptera (lacewings).Chrysopidae (green lacewings),common,Neuroptera,lacewings,Chrysopidae,green lacewings,11,86,97,20
+house.common.Neuroptera (lacewings).Coniopterygidae (dustywings),common,Neuroptera,lacewings,Coniopterygidae,dustywings,4,93,97,20
+house.common.Neuroptera (lacewings).Hemerobiidae (brown lacewings),common,Neuroptera,lacewings,Hemerobiidae,brown lacewings,7,90,97,20
+house.common.Neuroptera (lacewings).Myrmeleontidae (ant lions),common,Neuroptera,lacewings,Myrmeleontidae,ant lions,1,96,97,20
+house.common.Odonata (dragonflies and damselflies).Coenagrionidae (narrow-winged damselflies),common,Odonata,dragonflies and damselflies,Coenagrionidae,narrow-winged damselflies,1,96,97,1
+house.common.Opiliones (harvestmen).Un ID family,common,Opiliones,harvestmen,Un ID family,,5,92,97,5
+"house.common.Orthoptera (grasshoppers, etc).Acrididae (short horned grasshoppers)",common,Orthoptera,"grasshoppers, etc",Acrididae,short horned grasshoppers,2,95,97,29
+"house.common.Orthoptera (grasshoppers, etc).Gryllidae (crickets)",common,Orthoptera,"grasshoppers, etc",Gryllidae,crickets,8,89,97,29
+"house.common.Orthoptera (grasshoppers, etc).Mogoplistidae (scaly crickets)",common,Orthoptera,"grasshoppers, etc",Mogoplistidae,scaly crickets,4,93,97,29
+"house.common.Orthoptera (grasshoppers, etc).Myrmecophilidae (ant crickets)",common,Orthoptera,"grasshoppers, etc",Myrmecophilidae,ant crickets,2,95,97,29
+"house.common.Orthoptera (grasshoppers, etc).Rhaphidophoridae (camel crickets)",common,Orthoptera,"grasshoppers, etc",Rhaphidophoridae,camel crickets,19,78,97,29
+"house.common.Orthoptera (grasshoppers, etc).Tettigoniidae (katydids)",common,Orthoptera,"grasshoppers, etc",Tettigoniidae,katydids,1,96,97,29
+house.common.Plecoptera (stoneflies).Leuctridae (rolled-winged stoneflies),common,Plecoptera,stoneflies,Leuctridae,rolled-winged stoneflies,1,96,97,2
+house.common.Plecoptera (stoneflies).Un ID family,common,Plecoptera,stoneflies,Un ID family,,1,96,97,2
+house.common.Polydesmida (flat-backed millipedes).Paradoxosomatidae (millipedes),common,Polydesmida,flat-backed millipedes,Paradoxosomatidae,millipedes,22,75,97,29
+house.common.Polydesmida (flat-backed millipedes).Polydesmidae (flat-backed millipedes),common,Polydesmida,flat-backed millipedes,Polydesmidae,flat-backed millipedes,8,89,97,29
+house.common.Polydesmida (flat-backed millipedes).Un ID family,common,Polydesmida,flat-backed millipedes,Un ID family,,3,94,97,29
+house.common.Pseudoscorpiones (pseudoscorpions).Chernetidae (pseudoscorpions),common,Pseudoscorpiones,pseudoscorpions,Chernetidae,pseudoscorpions,1,96,97,10
+house.common.Pseudoscorpiones (pseudoscorpions).Chthoniidae (pseudoscorpions),common,Pseudoscorpiones,pseudoscorpions,Chthoniidae,pseudoscorpions,1,96,97,10
+house.common.Pseudoscorpiones (pseudoscorpions).Un ID family,common,Pseudoscorpiones,pseudoscorpions,Un ID family,,8,89,97,10
+"house.common.Psocodea (barklice, booklice, parasitic lice).Amphipsocidae (hairy-winged barklice)",common,Psocodea,"barklice, booklice, parasitic lice",Amphipsocidae,hairy-winged barklice,1,96,97,59
+"house.common.Psocodea (barklice, booklice, parasitic lice).Caeciliusidae (lizard barklice)",common,Psocodea,"barklice, booklice, parasitic lice",Caeciliusidae,lizard barklice,1,96,97,59
+"house.common.Psocodea (barklice, booklice, parasitic lice).Ectopsocidae (outer barklice)",common,Psocodea,"barklice, booklice, parasitic lice",Ectopsocidae,outer barklice,5,92,97,59
+"house.common.Psocodea (barklice, booklice, parasitic lice).Lepidopsocidae (scaly winged barklice)",common,Psocodea,"barklice, booklice, parasitic lice",Lepidopsocidae,scaly winged barklice,13,84,97,59
+"house.common.Psocodea (barklice, booklice, parasitic lice).Liposcelididae (booklice)",common,Psocodea,"barklice, booklice, parasitic lice",Liposcelididae,booklice,51,46,97,59
+"house.common.Psocodea (barklice, booklice, parasitic lice).Psoquillidae (bird nest barklice)",common,Psocodea,"barklice, booklice, parasitic lice",Psoquillidae,bird nest barklice,1,96,97,59
+"house.common.Psocodea (barklice, booklice, parasitic lice).Stenopsocidae (narrow barklice)",common,Psocodea,"barklice, booklice, parasitic lice",Stenopsocidae,narrow barklice,1,96,97,59
+"house.common.Psocodea (barklice, booklice, parasitic lice).Un ID family",common,Psocodea,"barklice, booklice, parasitic lice",Un ID family,,24,73,97,59
+house.common.Scolopendromorpha (tropical centipedes).Scolopendridae (tropical centipedes),common,Scolopendromorpha,tropical centipedes,Scolopendridae,tropical centipedes,5,92,97,5
+house.common.Scutigeromorpha (house centipedes).Scutigeridae (house centipedes),common,Scutigeromorpha,house centipedes,Scutigeridae,house centipedes,9,88,97,10
+house.common.Scutigeromorpha (house centipedes).Un ID family,common,Scutigeromorpha,house centipedes,Un ID family,,1,96,97,10
+house.common.Siphonaptera (fleas).Pulicidae (fleas),common,Siphonaptera,fleas,Pulicidae,fleas,1,96,97,1
+house.common.Spirobolida (round-backed millipedes).Spirobolidae (round-backed millipedes),common,Spirobolida,round-backed millipedes,Spirobolidae,round-backed millipedes,2,95,97,3
+house.common.Spirobolida (round-backed millipedes).Un ID family,common,Spirobolida,round-backed millipedes,Un ID family,,1,96,97,3
+house.common.Thysanoptera (thrips).Phlaeothripidae (tube tailed thrips),common,Thysanoptera,thrips,Phlaeothripidae,tube tailed thrips,5,92,97,19
+house.common.Thysanoptera (thrips).Thripidae (thrips),common,Thysanoptera,thrips,Thripidae,thrips,11,86,97,19
+house.common.Thysanoptera (thrips).Un ID family,common,Thysanoptera,thrips,Un ID family,,6,91,97,19
+house.common.Trichoptera (caddisflies).Hydropsychidae (netspinning caddisflies),common,Trichoptera,caddisflies,Hydropsychidae,netspinning caddisflies,3,94,97,3
+house.common.Un ID order.Un ID family,common,Un ID order,,Un ID family,,1,96,97,1
+house.common.Zygentoma (silverfish).Lepismatidae (silverfish),common,Zygentoma,silverfish,Lepismatidae,silverfish,39,58,97,39
+"house.kitchen.Acari (mites, ticks).Oribatida (moss mites)",kitchen,Acari,"mites, ticks",Oribatida,moss mites,1,49,50,5
+"house.kitchen.Acari (mites, ticks).Un ID family",kitchen,Acari,"mites, ticks",Un ID family,,4,46,50,5
+house.kitchen.Araneae (spiders).Agelenidae (funnel weavers),kitchen,Araneae,spiders,Agelenidae,funnel weavers,3,47,50,44
+house.kitchen.Araneae (spiders).Anyphaenidae (ghost spiders),kitchen,Araneae,spiders,Anyphaenidae,ghost spiders,2,48,50,44
+house.kitchen.Araneae (spiders).Araneidae (orb weavers),kitchen,Araneae,spiders,Araneidae,orb weavers,1,49,50,44
+house.kitchen.Araneae (spiders).Clubionidae (sac spiders),kitchen,Araneae,spiders,Clubionidae,sac spiders,1,49,50,44
+"house.kitchen.Araneae (spiders).Corinnidae (antmimics, ground spiders)",kitchen,Araneae,spiders,Corinnidae,"antmimics, ground spiders",2,48,50,44
+house.kitchen.Araneae (spiders).Filistatidae (crevice weavers),kitchen,Araneae,spiders,Filistatidae,crevice weavers,2,48,50,44
+house.kitchen.Araneae (spiders).Gnaphosidae (ground spiders),kitchen,Araneae,spiders,Gnaphosidae,ground spiders,1,49,50,44
+house.kitchen.Araneae (spiders).Linyphiidae (sheetweb & dwarf spiders),kitchen,Araneae,spiders,Linyphiidae,sheetweb & dwarf spiders,1,49,50,44
+house.kitchen.Araneae (spiders).Lycosidae (wolf spiders),kitchen,Araneae,spiders,Lycosidae,wolf spiders,4,46,50,44
+house.kitchen.Araneae (spiders).Oecobiidae (wall spiders),kitchen,Araneae,spiders,Oecobiidae,wall spiders,4,46,50,44
+house.kitchen.Araneae (spiders).Oonopidae (goblin spiders),kitchen,Araneae,spiders,Oonopidae,goblin spiders,1,49,50,44
+house.kitchen.Araneae (spiders).Pholcidae (cellar spiders),kitchen,Araneae,spiders,Pholcidae,cellar spiders,16,34,50,44
+house.kitchen.Araneae (spiders).Salticidae (jumping spider),kitchen,Araneae,spiders,Salticidae,jumping spider,3,47,50,44
+house.kitchen.Araneae (spiders).Scytodidae (spitting spider),kitchen,Araneae,spiders,Scytodidae,spitting spider,1,49,50,44
+house.kitchen.Araneae (spiders).Theridiidae (cobweb spiders),kitchen,Araneae,spiders,Theridiidae,cobweb spiders,35,15,50,44
+house.kitchen.Araneae (spiders).Thomisidae (crab spiders),kitchen,Araneae,spiders,Thomisidae,crab spiders,1,49,50,44
+house.kitchen.Araneae (spiders).Un ID family,kitchen,Araneae,spiders,Un ID family,,7,43,50,44
+house.kitchen.Blattodea (cockroaches).Blattellidae (cockroaches),kitchen,Blattodea,cockroaches,Blattellidae,cockroaches,1,49,50,9
+house.kitchen.Blattodea (cockroaches).Blattidae (cockroaches),kitchen,Blattodea,cockroaches,Blattidae,cockroaches,8,42,50,9
+house.kitchen.Coleoptera (beetles).Aderidae (antlike leaf beetles),kitchen,Coleoptera,beetles,Aderidae,antlike leaf beetles,3,47,50,36
+house.kitchen.Coleoptera (beetles).Anobiidae (death watch beetles),kitchen,Coleoptera,beetles,Anobiidae,death watch beetles,7,43,50,36
+house.kitchen.Coleoptera (beetles).Anthribidae (fungus weevils),kitchen,Coleoptera,beetles,Anthribidae,fungus weevils,1,49,50,36
+house.kitchen.Coleoptera (beetles).Cantharidae (soldier beetles),kitchen,Coleoptera,beetles,Cantharidae,soldier beetles,1,49,50,36
+house.kitchen.Coleoptera (beetles).Carabidae (ground beetles),kitchen,Coleoptera,beetles,Carabidae,ground beetles,1,49,50,36
+house.kitchen.Coleoptera (beetles).Chrysomelidae (leaf beetles),kitchen,Coleoptera,beetles,Chrysomelidae,leaf beetles,1,49,50,36
+house.kitchen.Coleoptera (beetles).Coccinellidae (ladybugs),kitchen,Coleoptera,beetles,Coccinellidae,ladybugs,2,48,50,36
+house.kitchen.Coleoptera (beetles).Cryptophagidae (silken fungus beetles),kitchen,Coleoptera,beetles,Cryptophagidae,silken fungus beetles,2,48,50,36
+house.kitchen.Coleoptera (beetles).Curculionidae (snout & bark beetles),kitchen,Coleoptera,beetles,Curculionidae,snout & bark beetles,3,47,50,36
+house.kitchen.Coleoptera (beetles).Dermestidae (carpet beetles),kitchen,Coleoptera,beetles,Dermestidae,carpet beetles,29,21,50,36
+house.kitchen.Coleoptera (beetles).Elateridae (click beetles),kitchen,Coleoptera,beetles,Elateridae,click beetles,4,46,50,36
+house.kitchen.Coleoptera (beetles).Lampyridae (fireflies),kitchen,Coleoptera,beetles,Lampyridae,fireflies,2,48,50,36
+house.kitchen.Coleoptera (beetles).Latridiidae (minute brown scavenger beetles),kitchen,Coleoptera,beetles,Latridiidae,minute brown scavenger beetles,6,44,50,36
+house.kitchen.Coleoptera (beetles).Melyridae (soft winged flower beetles),kitchen,Coleoptera,beetles,Melyridae,soft winged flower beetles,1,49,50,36
+house.kitchen.Coleoptera (beetles).Mordellidae (tumbling flower beetles),kitchen,Coleoptera,beetles,Mordellidae,tumbling flower beetles,2,48,50,36
+house.kitchen.Coleoptera (beetles).Mycetophagidae (hairy fungus beetles),kitchen,Coleoptera,beetles,Mycetophagidae,hairy fungus beetles,1,49,50,36
+house.kitchen.Coleoptera (beetles).Nitidulidae (sap beetles),kitchen,Coleoptera,beetles,Nitidulidae,sap beetles,1,49,50,36
+house.kitchen.Coleoptera (beetles).Ptilodactylidae (toe winged beetles),kitchen,Coleoptera,beetles,Ptilodactylidae,toe winged beetles,3,47,50,36
+house.kitchen.Coleoptera (beetles).Scarabaeidae (scarab beetles),kitchen,Coleoptera,beetles,Scarabaeidae,scarab beetles,5,45,50,36
+house.kitchen.Coleoptera (beetles).Scraptiidae (false flower beetles),kitchen,Coleoptera,beetles,Scraptiidae,false flower beetles,1,49,50,36
+house.kitchen.Coleoptera (beetles).Scydmaenidae (ant like stone beetles),kitchen,Coleoptera,beetles,Scydmaenidae,ant like stone beetles,1,49,50,36
+house.kitchen.Coleoptera (beetles).Silvanidae (flat bark beetles),kitchen,Coleoptera,beetles,Silvanidae,flat bark beetles,2,48,50,36
+house.kitchen.Coleoptera (beetles).Staphylinidae (rove beetles),kitchen,Coleoptera,beetles,Staphylinidae,rove beetles,3,47,50,36
+house.kitchen.Coleoptera (beetles).Tenebrionidae (darkling beetles),kitchen,Coleoptera,beetles,Tenebrionidae,darkling beetles,1,49,50,36
+house.kitchen.Coleoptera (beetles).Throscidae (false metallic wood boring beetles),kitchen,Coleoptera,beetles,Throscidae,false metallic wood boring beetles,1,49,50,36
+house.kitchen.Coleoptera (beetles).Zopheridae (ironclad beetles),kitchen,Coleoptera,beetles,Zopheridae,ironclad beetles,3,47,50,36
+house.kitchen.Collembola (springtails).Entomobryidae (slender springtails),kitchen,Collembola,springtails,Entomobryidae,slender springtails,12,38,50,13
+house.kitchen.Collembola (springtails).Hypogastruridae (springtails),kitchen,Collembola,springtails,Hypogastruridae,springtails,1,49,50,13
+house.kitchen.Collembola (springtails).Tomoceridae (elongate bodied springtails),kitchen,Collembola,springtails,Tomoceridae,elongate bodied springtails,2,48,50,13
+house.kitchen.Decapoda (crustaceans).Paguroidea (hermit crabs),kitchen,Decapoda,crustaceans,Paguroidea,hermit crabs,1,49,50,1
+house.kitchen.Dermaptera (earwigs).Anisolabididae (earwigs),kitchen,Dermaptera,earwigs,Anisolabididae,earwigs,1,49,50,3
+house.kitchen.Dermaptera (earwigs).Forficulidae (earwigs),kitchen,Dermaptera,earwigs,Forficulidae,earwigs,2,48,50,3
+house.kitchen.Dermaptera (earwigs).Un ID family,kitchen,Dermaptera,earwigs,Un ID family,,1,49,50,3
+house.kitchen.Diplopoda (millipedes).Un ID family,kitchen,Diplopoda,millipedes,Un ID family,,1,49,50,1
+house.kitchen.Diptera (flies).Agromyzidae (leaf miner flies),kitchen,Diptera,flies,Agromyzidae,leaf miner flies,1,49,50,40
+house.kitchen.Diptera (flies).Anisopodidae (wood gnats),kitchen,Diptera,flies,Anisopodidae,wood gnats,1,49,50,40
+house.kitchen.Diptera (flies).Anthomyiidae (root maggot flies),kitchen,Diptera,flies,Anthomyiidae,root maggot flies,2,48,50,40
+"house.kitchen.Diptera (flies).Bibionidae (march flies, lovebugs)",kitchen,Diptera,flies,Bibionidae,"march flies, lovebugs",1,49,50,40
+house.kitchen.Diptera (flies).Calliphoridae (blow flies),kitchen,Diptera,flies,Calliphoridae,blow flies,3,47,50,40
+house.kitchen.Diptera (flies).Cecidomyiidae (gall midges),kitchen,Diptera,flies,Cecidomyiidae,gall midges,23,27,50,40
+house.kitchen.Diptera (flies).Ceratopogonidae (biting midges),kitchen,Diptera,flies,Ceratopogonidae,biting midges,5,45,50,40
+house.kitchen.Diptera (flies).Chaoboridae (phantom midges),kitchen,Diptera,flies,Chaoboridae,phantom midges,3,47,50,40
+house.kitchen.Diptera (flies).Chironomidae (non biting midges),kitchen,Diptera,flies,Chironomidae,non biting midges,15,35,50,40
+house.kitchen.Diptera (flies).Chloropidae (frit flies),kitchen,Diptera,flies,Chloropidae,frit flies,4,46,50,40
+house.kitchen.Diptera (flies).Culicidae (mosquitoes),kitchen,Diptera,flies,Culicidae,mosquitoes,11,39,50,40
+house.kitchen.Diptera (flies).Dolichopodidae (longlegged flies),kitchen,Diptera,flies,Dolichopodidae,longlegged flies,2,48,50,40
+"house.kitchen.Diptera (flies).Drosophilidae (fruit flies, vinegar flies)",kitchen,Diptera,flies,Drosophilidae,"fruit flies, vinegar flies",11,39,50,40
+house.kitchen.Diptera (flies).Fanniidae (Calyptrate flies),kitchen,Diptera,flies,Fanniidae,Calyptrate flies,2,48,50,40
+house.kitchen.Diptera (flies).Heleomyzidae (acalyptrate flies),kitchen,Diptera,flies,Heleomyzidae,acalyptrate flies,1,49,50,40
+house.kitchen.Diptera (flies).Muscidae (house flies),kitchen,Diptera,flies,Muscidae,house flies,2,48,50,40
+house.kitchen.Diptera (flies).Mycetophilidae (fungus gnats),kitchen,Diptera,flies,Mycetophilidae,fungus gnats,3,47,50,40
+house.kitchen.Diptera (flies).Phoridae (scuttle flies),kitchen,Diptera,flies,Phoridae,scuttle flies,9,41,50,40
+house.kitchen.Diptera (flies).Psychodidae (sand & moth flies),kitchen,Diptera,flies,Psychodidae,sand & moth flies,7,43,50,40
+house.kitchen.Diptera (flies).Sarcophagidae (flesh flies),kitchen,Diptera,flies,Sarcophagidae,flesh flies,3,47,50,40
+house.kitchen.Diptera (flies).Scatopsidae (minute black scavenger flies),kitchen,Diptera,flies,Scatopsidae,minute black scavenger flies,5,45,50,40
+house.kitchen.Diptera (flies).Sciaridae (dark winged fungus gnats),kitchen,Diptera,flies,Sciaridae,dark winged fungus gnats,21,29,50,40
+house.kitchen.Diptera (flies).Stratiomyidae (soldier flies),kitchen,Diptera,flies,Stratiomyidae,soldier flies,1,49,50,40
+"house.kitchen.Diptera (flies).Tabanidae (horse flies, deer flies)",kitchen,Diptera,flies,Tabanidae,"horse flies, deer flies",1,49,50,40
+house.kitchen.Diptera (flies).Tachinidae (Tachina flies),kitchen,Diptera,flies,Tachinidae,Tachina flies,1,49,50,40
+house.kitchen.Diptera (flies).Tipulidae (large crane flies),kitchen,Diptera,flies,Tipulidae,large crane flies,9,41,50,40
+house.kitchen.Diptera (flies).Ulidiidae (picture-winged flies),kitchen,Diptera,flies,Ulidiidae,picture-winged flies,1,49,50,40
+house.kitchen.Diptera (flies).Un ID family,kitchen,Diptera,flies,Un ID family,,3,47,50,40
+house.kitchen.Hemiptera (true bugs).Anthocoridae (minute pirate bugs),kitchen,Hemiptera,true bugs,Anthocoridae,minute pirate bugs,4,46,50,29
+house.kitchen.Hemiptera (true bugs).Aphididae (aphids),kitchen,Hemiptera,true bugs,Aphididae,aphids,10,40,50,29
+house.kitchen.Hemiptera (true bugs).Cercopidae (spittlebugs),kitchen,Hemiptera,true bugs,Cercopidae,spittlebugs,1,49,50,29
+house.kitchen.Hemiptera (true bugs).Cicadellidae (leafhoppers),kitchen,Hemiptera,true bugs,Cicadellidae,leafhoppers,15,35,50,29
+"house.kitchen.Hemiptera (true bugs).Coccoidea (scales, mealybugs)",kitchen,Hemiptera,true bugs,Coccoidea,"scales, mealybugs",1,49,50,29
+house.kitchen.Hemiptera (true bugs).Issidae (Issid planthoppers),kitchen,Hemiptera,true bugs,Issidae,Issid planthoppers,1,49,50,29
+house.kitchen.Hemiptera (true bugs).Membracidae (treehoppers),kitchen,Hemiptera,true bugs,Membracidae,treehoppers,1,49,50,29
+house.kitchen.Hemiptera (true bugs).Miridae (plant bugs),kitchen,Hemiptera,true bugs,Miridae,plant bugs,4,46,50,29
+house.kitchen.Hemiptera (true bugs).Pentatomidae (stink bugs),kitchen,Hemiptera,true bugs,Pentatomidae,stink bugs,2,48,50,29
+house.kitchen.Hemiptera (true bugs).Psyllidae (jumping plant lice),kitchen,Hemiptera,true bugs,Psyllidae,jumping plant lice,1,49,50,29
+house.kitchen.Hemiptera (true bugs).Reduviidae (assassin bugs),kitchen,Hemiptera,true bugs,Reduviidae,assassin bugs,2,48,50,29
+house.kitchen.Hemiptera (true bugs).Rhyparochromidae (dirt colored seed bugs),kitchen,Hemiptera,true bugs,Rhyparochromidae,dirt colored seed bugs,1,49,50,29
+house.kitchen.Hemiptera (true bugs).Un ID family,kitchen,Hemiptera,true bugs,Un ID family,,3,47,50,29
+"house.kitchen.Hymenoptera (bees, wasps, ants).Bethylidae (cuckoo wasps)",kitchen,Hymenoptera,"bees, wasps, ants",Bethylidae,cuckoo wasps,1,49,50,42
+"house.kitchen.Hymenoptera (bees, wasps, ants).Braconidae (parasitoid wasps)",kitchen,Hymenoptera,"bees, wasps, ants",Braconidae,parasitoid wasps,3,47,50,42
+"house.kitchen.Hymenoptera (bees, wasps, ants).Chrysididae (cuckoo wasps)",kitchen,Hymenoptera,"bees, wasps, ants",Chrysididae,cuckoo wasps,1,49,50,42
+"house.kitchen.Hymenoptera (bees, wasps, ants).Diapriidae (parasitic wasps)",kitchen,Hymenoptera,"bees, wasps, ants",Diapriidae,parasitic wasps,1,49,50,42
+"house.kitchen.Hymenoptera (bees, wasps, ants).Eulophidae (chalcid wasps)",kitchen,Hymenoptera,"bees, wasps, ants",Eulophidae,chalcid wasps,11,39,50,42
+"house.kitchen.Hymenoptera (bees, wasps, ants).Formicidae (ants)",kitchen,Hymenoptera,"bees, wasps, ants",Formicidae,ants,41,9,50,42
+"house.kitchen.Hymenoptera (bees, wasps, ants).Halictidae (sweat bees)",kitchen,Hymenoptera,"bees, wasps, ants",Halictidae,sweat bees,2,48,50,42
+"house.kitchen.Hymenoptera (bees, wasps, ants).Ichneumonidae (scorpion wasps)",kitchen,Hymenoptera,"bees, wasps, ants",Ichneumonidae,scorpion wasps,2,48,50,42
+"house.kitchen.Hymenoptera (bees, wasps, ants).Megachilidae (leaf cutter & mason bees)",kitchen,Hymenoptera,"bees, wasps, ants",Megachilidae,leaf cutter & mason bees,1,49,50,42
+"house.kitchen.Hymenoptera (bees, wasps, ants).Mymaridae (fairyflies)",kitchen,Hymenoptera,"bees, wasps, ants",Mymaridae,fairyflies,1,49,50,42
+"house.kitchen.Hymenoptera (bees, wasps, ants).Platygastridae (parasitic wasps)",kitchen,Hymenoptera,"bees, wasps, ants",Platygastridae,parasitic wasps,1,49,50,42
+"house.kitchen.Hymenoptera (bees, wasps, ants).Proctotrupidae (parasitic wasps)",kitchen,Hymenoptera,"bees, wasps, ants",Proctotrupidae,parasitic wasps,1,49,50,42
+"house.kitchen.Hymenoptera (bees, wasps, ants).Pteromalidae (Pteromalid wasps)",kitchen,Hymenoptera,"bees, wasps, ants",Pteromalidae,Pteromalid wasps,8,42,50,42
+"house.kitchen.Hymenoptera (bees, wasps, ants).Un ID family",kitchen,Hymenoptera,"bees, wasps, ants",Un ID family,,1,49,50,42
+"house.kitchen.Isopoda (woodlice, pillbugs, roly-poly's).Armadillidiidae (pillbugs)",kitchen,Isopoda,"woodlice, pillbugs, roly-poly's",Armadillidiidae,pillbugs,10,40,50,10
+"house.kitchen.Isopoda (woodlice, pillbugs, roly-poly's).Porcellionidae (woodlice)",kitchen,Isopoda,"woodlice, pillbugs, roly-poly's",Porcellionidae,woodlice,2,48,50,10
+"house.kitchen.Isopoda (woodlice, pillbugs, roly-poly's).Trachelipodidae (woodlice)",kitchen,Isopoda,"woodlice, pillbugs, roly-poly's",Trachelipodidae,woodlice,1,49,50,10
+house.kitchen.Isoptera (termites).Rhinotermitidae (subterranean termites),kitchen,Isoptera,termites,Rhinotermitidae,subterranean termites,3,47,50,3
+"house.kitchen.Lepidoptera (moths, butterflies).Geometridae (geometrid moths)",kitchen,Lepidoptera,"moths, butterflies",Geometridae,geometrid moths,1,49,50,19
+"house.kitchen.Lepidoptera (moths, butterflies).Noctuidae (owlet moths)",kitchen,Lepidoptera,"moths, butterflies",Noctuidae,owlet moths,3,47,50,19
+"house.kitchen.Lepidoptera (moths, butterflies).Pyralidae (pyralid moths)",kitchen,Lepidoptera,"moths, butterflies",Pyralidae,pyralid moths,11,39,50,19
+"house.kitchen.Lepidoptera (moths, butterflies).Tineidae (clothes moths)",kitchen,Lepidoptera,"moths, butterflies",Tineidae,clothes moths,5,45,50,19
+"house.kitchen.Lepidoptera (moths, butterflies).Un ID family",kitchen,Lepidoptera,"moths, butterflies",Un ID family,,3,47,50,19
+house.kitchen.Lithobiomorpha (stone centipedes).Lithobiidae (stone centipedes),kitchen,Lithobiomorpha,stone centipedes,Lithobiidae,stone centipedes,1,49,50,1
+house.kitchen.Microcoryphia (bristletails).Machilidae (jumping bristletails),kitchen,Microcoryphia,bristletails,Machilidae,jumping bristletails,1,49,50,1
+house.kitchen.Neuroptera (lacewings).Chrysopidae (green lacewings),kitchen,Neuroptera,lacewings,Chrysopidae,green lacewings,2,48,50,5
+house.kitchen.Neuroptera (lacewings).Coniopterygidae (dustywings),kitchen,Neuroptera,lacewings,Coniopterygidae,dustywings,1,49,50,5
+house.kitchen.Neuroptera (lacewings).Hemerobiidae (brown lacewings),kitchen,Neuroptera,lacewings,Hemerobiidae,brown lacewings,3,47,50,5
+"house.kitchen.Orthoptera (grasshoppers, etc).Myrmecophilidae (ant crickets)",kitchen,Orthoptera,"grasshoppers, etc",Myrmecophilidae,ant crickets,3,47,50,7
+"house.kitchen.Orthoptera (grasshoppers, etc).Rhaphidophoridae (camel crickets)",kitchen,Orthoptera,"grasshoppers, etc",Rhaphidophoridae,camel crickets,3,47,50,7
+"house.kitchen.Orthoptera (grasshoppers, etc).Tettigoniidae (katydids)",kitchen,Orthoptera,"grasshoppers, etc",Tettigoniidae,katydids,1,49,50,7
+house.kitchen.Polydesmida (flat-backed millipedes).Paradoxosomatidae (millipedes),kitchen,Polydesmida,flat-backed millipedes,Paradoxosomatidae,millipedes,5,45,50,7
+house.kitchen.Polydesmida (flat-backed millipedes).Polydesmidae (flat-backed millipedes),kitchen,Polydesmida,flat-backed millipedes,Polydesmidae,flat-backed millipedes,2,48,50,7
+house.kitchen.Pseudoscorpiones (pseudoscorpions).Un ID family,kitchen,Pseudoscorpiones,pseudoscorpions,Un ID family,,1,49,50,1
+"house.kitchen.Psocodea (barklice, booklice, parasitic lice).Ectopsocidae (outer barklice)",kitchen,Psocodea,"barklice, booklice, parasitic lice",Ectopsocidae,outer barklice,2,48,50,23
+"house.kitchen.Psocodea (barklice, booklice, parasitic lice).Liposcelididae (booklice)",kitchen,Psocodea,"barklice, booklice, parasitic lice",Liposcelididae,booklice,19,31,50,23
+"house.kitchen.Psocodea (barklice, booklice, parasitic lice).Stenopsocidae (narrow barklice)",kitchen,Psocodea,"barklice, booklice, parasitic lice",Stenopsocidae,narrow barklice,1,49,50,23
+"house.kitchen.Psocodea (barklice, booklice, parasitic lice).Un ID family",kitchen,Psocodea,"barklice, booklice, parasitic lice",Un ID family,,5,45,50,23
+house.kitchen.Scutigeromorpha (house centipedes).Scutigeridae (house centipedes),kitchen,Scutigeromorpha,house centipedes,Scutigeridae,house centipedes,5,45,50,5
+house.kitchen.Siphonaptera (fleas).Pulicidae (fleas),kitchen,Siphonaptera,fleas,Pulicidae,fleas,1,49,50,1
+house.kitchen.Spirobolida (round-backed millipedes).Spirobolidae (round-backed millipedes),kitchen,Spirobolida,round-backed millipedes,Spirobolidae,round-backed millipedes,1,49,50,1
+house.kitchen.Thysanoptera (thrips).Thripidae (thrips),kitchen,Thysanoptera,thrips,Thripidae,thrips,3,47,50,4
+house.kitchen.Thysanoptera (thrips).Un ID family,kitchen,Thysanoptera,thrips,Un ID family,,1,49,50,4
+house.kitchen.Zygentoma (silverfish).Lepismatidae (silverfish),kitchen,Zygentoma,silverfish,Lepismatidae,silverfish,8,42,50,8
+"house.other.Acari (mites, ticks).Un ID family",other,Acari,"mites, ticks",Un ID family,,1,8,9,1
+house.other.Araneae (spiders).Agelenidae (funnel weavers),other,Araneae,spiders,Agelenidae,funnel weavers,1,8,9,8
+house.other.Araneae (spiders).Linyphiidae (sheetweb & dwarf spiders),other,Araneae,spiders,Linyphiidae,sheetweb & dwarf spiders,1,8,9,8
+house.other.Araneae (spiders).Lycosidae (wolf spiders),other,Araneae,spiders,Lycosidae,wolf spiders,1,8,9,8
+house.other.Araneae (spiders).Oecobiidae (wall spiders),other,Araneae,spiders,Oecobiidae,wall spiders,1,8,9,8
+house.other.Araneae (spiders).Pholcidae (cellar spiders),other,Araneae,spiders,Pholcidae,cellar spiders,3,6,9,8
+house.other.Araneae (spiders).Salticidae (jumping spider),other,Araneae,spiders,Salticidae,jumping spider,2,7,9,8
+house.other.Araneae (spiders).Theridiidae (cobweb spiders),other,Araneae,spiders,Theridiidae,cobweb spiders,6,3,9,8
+house.other.Araneae (spiders).Un ID family,other,Araneae,spiders,Un ID family,,1,8,9,8
+house.other.Blattodea (cockroaches).Blattidae (cockroaches),other,Blattodea,cockroaches,Blattidae,cockroaches,2,7,9,2
+house.other.Coleoptera (beetles).Anobiidae (death watch beetles),other,Coleoptera,beetles,Anobiidae,death watch beetles,1,8,9,8
+house.other.Coleoptera (beetles).Anthicidae (antlike flower beetles),other,Coleoptera,beetles,Anthicidae,antlike flower beetles,1,8,9,8
+house.other.Coleoptera (beetles).Carabidae (ground beetles),other,Coleoptera,beetles,Carabidae,ground beetles,2,7,9,8
+house.other.Coleoptera (beetles).Coccinellidae (ladybugs),other,Coleoptera,beetles,Coccinellidae,ladybugs,1,8,9,8
+house.other.Coleoptera (beetles).Dermestidae (carpet beetles),other,Coleoptera,beetles,Dermestidae,carpet beetles,6,3,9,8
+house.other.Coleoptera (beetles).Elateridae (click beetles),other,Coleoptera,beetles,Elateridae,click beetles,2,7,9,8
+house.other.Coleoptera (beetles).Latridiidae (minute brown scavenger beetles),other,Coleoptera,beetles,Latridiidae,minute brown scavenger beetles,1,8,9,8
+house.other.Coleoptera (beetles).Mordellidae (tumbling flower beetles),other,Coleoptera,beetles,Mordellidae,tumbling flower beetles,1,8,9,8
+house.other.Coleoptera (beetles).Scarabaeidae (scarab beetles),other,Coleoptera,beetles,Scarabaeidae,scarab beetles,1,8,9,8
+house.other.Coleoptera (beetles).Silvanidae (flat bark beetles),other,Coleoptera,beetles,Silvanidae,flat bark beetles,1,8,9,8
+house.other.Coleoptera (beetles).Staphylinidae (rove beetles),other,Coleoptera,beetles,Staphylinidae,rove beetles,1,8,9,8
+house.other.Coleoptera (beetles).Tenebrionidae (darkling beetles),other,Coleoptera,beetles,Tenebrionidae,darkling beetles,1,8,9,8
+house.other.Coleoptera (beetles).Un ID family,other,Coleoptera,beetles,Un ID family,,1,8,9,8
+house.other.Collembola (springtails).Entomobryidae (slender springtails),other,Collembola,springtails,Entomobryidae,slender springtails,4,5,9,4
+house.other.Collembola (springtails).Tomoceridae (elongate bodied springtails),other,Collembola,springtails,Tomoceridae,elongate bodied springtails,1,8,9,4
+house.other.Diplopoda (millipedes).Abacionidae (millipedes),other,Diplopoda,millipedes,Abacionidae,millipedes,1,8,9,1
+house.other.Diptera (flies).Cecidomyiidae (gall midges),other,Diptera,flies,Cecidomyiidae,gall midges,4,5,9,7
+house.other.Diptera (flies).Chironomidae (non biting midges),other,Diptera,flies,Chironomidae,non biting midges,1,8,9,7
+house.other.Diptera (flies).Culicidae (mosquitoes),other,Diptera,flies,Culicidae,mosquitoes,1,8,9,7
+"house.other.Diptera (flies).Drosophilidae (fruit flies, vinegar flies)",other,Diptera,flies,Drosophilidae,"fruit flies, vinegar flies",1,8,9,7
+house.other.Diptera (flies).Milichiidae (freeloader flies),other,Diptera,flies,Milichiidae,freeloader flies,1,8,9,7
+house.other.Diptera (flies).Muscidae (house flies),other,Diptera,flies,Muscidae,house flies,2,7,9,7
+house.other.Diptera (flies).Mycetophilidae (fungus gnats),other,Diptera,flies,Mycetophilidae,fungus gnats,1,8,9,7
+house.other.Diptera (flies).Phoridae (scuttle flies),other,Diptera,flies,Phoridae,scuttle flies,2,7,9,7
+house.other.Diptera (flies).Psychodidae (sand & moth flies),other,Diptera,flies,Psychodidae,sand & moth flies,2,7,9,7
+house.other.Diptera (flies).Sarcophagidae (flesh flies),other,Diptera,flies,Sarcophagidae,flesh flies,2,7,9,7
+house.other.Diptera (flies).Scatopsidae (minute black scavenger flies),other,Diptera,flies,Scatopsidae,minute black scavenger flies,1,8,9,7
+house.other.Diptera (flies).Sciaridae (dark winged fungus gnats),other,Diptera,flies,Sciaridae,dark winged fungus gnats,6,3,9,7
+house.other.Diptera (flies).Stratiomyidae (soldier flies),other,Diptera,flies,Stratiomyidae,soldier flies,1,8,9,7
+"house.other.Diptera (flies).Tabanidae (horse flies, deer flies)",other,Diptera,flies,Tabanidae,"horse flies, deer flies",1,8,9,7
+house.other.Hemiptera (true bugs).Cicadellidae (leafhoppers),other,Hemiptera,true bugs,Cicadellidae,leafhoppers,1,8,9,2
+house.other.Hemiptera (true bugs).Delphacidae (Delphacid planthoppers),other,Hemiptera,true bugs,Delphacidae,Delphacid planthoppers,1,8,9,2
+house.other.Hemiptera (true bugs).Lygaeidae (seed bugs),other,Hemiptera,true bugs,Lygaeidae,seed bugs,1,8,9,2
+house.other.Hemiptera (true bugs).Miridae (plant bugs),other,Hemiptera,true bugs,Miridae,plant bugs,1,8,9,2
+house.other.Hemiptera (true bugs).Reduviidae (assassin bugs),other,Hemiptera,true bugs,Reduviidae,assassin bugs,1,8,9,2
+house.other.Hemiptera (true bugs).Un ID family,other,Hemiptera,true bugs,Un ID family,,1,8,9,2
+"house.other.Hymenoptera (bees, wasps, ants).Apidae (bees)",other,Hymenoptera,"bees, wasps, ants",Apidae,bees,1,8,9,7
+"house.other.Hymenoptera (bees, wasps, ants).Encyrtidae (Chalcid wasps)",other,Hymenoptera,"bees, wasps, ants",Encyrtidae,Chalcid wasps,1,8,9,7
+"house.other.Hymenoptera (bees, wasps, ants).Eulophidae (chalcid wasps)",other,Hymenoptera,"bees, wasps, ants",Eulophidae,chalcid wasps,3,6,9,7
+"house.other.Hymenoptera (bees, wasps, ants).Formicidae (ants)",other,Hymenoptera,"bees, wasps, ants",Formicidae,ants,7,2,9,7
+"house.other.Hymenoptera (bees, wasps, ants).Ichneumonidae (scorpion wasps)",other,Hymenoptera,"bees, wasps, ants",Ichneumonidae,scorpion wasps,1,8,9,7
+"house.other.Hymenoptera (bees, wasps, ants).Platygastridae (parasitic wasps) (parasitoid wasps)",other,Hymenoptera,"bees, wasps, ants",Platygastridae,parasitic wasps,1,8,9,7
+"house.other.Hymenoptera (bees, wasps, ants).Pompilidae (spider wasps)",other,Hymenoptera,"bees, wasps, ants",Pompilidae,spider wasps,1,8,9,7
+"house.other.Isopoda (woodlice, pillbugs, roly-poly's).Armadillidiidae (pillbugs)",other,Isopoda,"woodlice, pillbugs, roly-poly's",Armadillidiidae,pillbugs,2,7,9,2
+house.other.Isoptera (termites).Rhinotermitidae (subterranean termites),other,Isoptera,termites,Rhinotermitidae,subterranean termites,1,8,9,1
+"house.other.Lepidoptera (moths, butterflies).Geometridae (geometrid moths)",other,Lepidoptera,"moths, butterflies",Geometridae,geometrid moths,1,8,9,5
+"house.other.Lepidoptera (moths, butterflies).Noctuidae (owlet moths)",other,Lepidoptera,"moths, butterflies",Noctuidae,owlet moths,1,8,9,5
+"house.other.Lepidoptera (moths, butterflies).Tineidae (clothes moths)",other,Lepidoptera,"moths, butterflies",Tineidae,clothes moths,2,7,9,5
+"house.other.Lepidoptera (moths, butterflies).Un ID family",other,Lepidoptera,"moths, butterflies",Un ID family,,2,7,9,5
+"house.other.Orthoptera (grasshoppers, etc).Rhaphidophoridae (camel crickets)",other,Orthoptera,"grasshoppers, etc",Rhaphidophoridae,camel crickets,3,6,9,3
+house.other.Polydesmida (flat-backed millipedes).Polydesmidae (flat-backed millipedes),other,Polydesmida,flat-backed millipedes,Polydesmidae,flat-backed millipedes,1,8,9,1
+"house.other.Psocodea (barklice, booklice, parasitic lice).Liposcelididae (booklice)",other,Psocodea,"barklice, booklice, parasitic lice",Liposcelididae,booklice,3,6,9,3
+"house.other.Psocodea (barklice, booklice, parasitic lice).Un ID family",other,Psocodea,"barklice, booklice, parasitic lice",Un ID family,,2,7,9,3
+house.other.Thysanoptera (thrips).Thripidae (thrips),other,Thysanoptera,thrips,Thripidae,thrips,1,8,9,1
+house.other.Zygentoma (silverfish).Lepismatidae (silverfish),other,Zygentoma,silverfish,Lepismatidae,silverfish,2,7,9,2
+"house.attic.Acari (mites, ticks)",attic,Acari,"mites, ticks",,,,,,
+house.attic.Araneae (spiders),attic,Araneae,spiders,,,,,,
+house.attic.Blattodea (cockroaches),attic,Blattodea,cockroaches,,,,,,
+house.attic.Coleoptera (beetles),attic,Coleoptera,beetles,,,,,,
+house.attic.Collembola (springtails),attic,Collembola,springtails,,,,,,
+house.attic.Diptera (flies),attic,Diptera,flies,,,,,,
+house.attic.Hemiptera (true bugs),attic,Hemiptera,true bugs,,,,,,
+"house.attic.Hymenoptera (bees, wasps, ants)",attic,Hymenoptera,"bees, wasps, ants",,,,,,
+"house.attic.Isopoda (woodlice, pillbugs, roly-poly's)",attic,Isopoda,"woodlice, pillbugs, roly-poly's",,,,,,
+house.attic.No specimens,attic,No specimens,NA,,,,,,
+house.attic.Opiliones (harvestmen),attic,Opiliones,harvestmen,,,,,,
+"house.attic.Orthoptera (grasshoppers, etc)",attic,Orthoptera,"grasshoppers, etc",,,,,,
+house.attic.Polydesmida (flat-backed millipedes),attic,Polydesmida,flat-backed millipedes,,,,,,
+"house.attic.Psocodea (barklice, booklice, parasitic lice)",attic,Psocodea,"barklice, booklice, parasitic lice",,,,,,
+house.attic.Thysanoptera (thrips),attic,Thysanoptera,thrips,,,,,,
+house.attic.Un ID order,attic,Un ID order,NA,,,,,,
+house.attic.Zygentoma (silverfish),attic,Zygentoma,silverfish,,,,,,
+"house.basement.Acari (mites, ticks)",basement,Acari,"mites, ticks",,,,,,
+house.basement.Araneae (spiders),basement,Araneae,spiders,,,,,,
+house.basement.Blattodea (cockroaches),basement,Blattodea,cockroaches,,,,,,
+house.basement.Callipodida (crested millipedes),basement,Callipodida,crested millipedes,,,,,,
+house.basement.Coleoptera (beetles),basement,Coleoptera,beetles,,,,,,
+house.basement.Collembola (springtails),basement,Collembola,springtails,,,,,,
+house.basement.Dermaptera (earwigs),basement,Dermaptera,earwigs,,,,,,
+house.basement.Diplopoda (millipedes),basement,Diplopoda,millipedes,,,,,,
+house.basement.Diptera (flies),basement,Diptera,flies,,,,,,
+house.basement.Hemiptera (true bugs),basement,Hemiptera,true bugs,,,,,,
+"house.basement.Hymenoptera (bees, wasps, ants)",basement,Hymenoptera,"bees, wasps, ants",,,,,,
+"house.basement.Isopoda (woodlice, pillbugs, roly-poly's)",basement,Isopoda,"woodlice, pillbugs, roly-poly's",,,,,,
+house.basement.Isoptera (termites),basement,Isoptera,termites,,,,,,
+house.basement.Julida (millipedes),basement,Julida,millipedes,,,,,,
+"house.basement.Lepidoptera (moths, butterflies)",basement,Lepidoptera,"moths, butterflies",,,,,,
+house.basement.Lithobiomorpha (stone centipedes),basement,Lithobiomorpha,stone centipedes,,,,,,
+house.basement.Microcoryphia (bristletails),basement,Microcoryphia,bristletails,,,,,,
+house.basement.Neuroptera (lacewings),basement,Neuroptera,lacewings,,,,,,
+house.basement.Opiliones (harvestmen),basement,Opiliones,harvestmen,,,,,,
+"house.basement.Orthoptera (grasshoppers, etc)",basement,Orthoptera,"grasshoppers, etc",,,,,,
+house.basement.Polydesmida (flat-backed millipedes),basement,Polydesmida,flat-backed millipedes,,,,,,
+house.basement.Pseudoscorpiones (pseudoscorpions),basement,Pseudoscorpiones,pseudoscorpions,,,,,,
+"house.basement.Psocodea (barklice, booklice, parasitic lice)",basement,Psocodea,"barklice, booklice, parasitic lice",,,,,,
+house.basement.Scolopendromorpha (tropical centipedes),basement,Scolopendromorpha,tropical centipedes,,,,,,
+house.basement.Scutigeromorpha (house centipedes),basement,Scutigeromorpha,house centipedes,,,,,,
+house.basement.Spirobolida (round-backed millipedes),basement,Spirobolida,round-backed millipedes,,,,,,
+house.basement.Spirostreptida (millipedes),basement,Spirostreptida,millipedes,,,,,,
+house.basement.Thysanoptera (thrips),basement,Thysanoptera,thrips,,,,,,
+house.basement.Zygentoma (silverfish),basement,Zygentoma,silverfish,,,,,,
+"house.bath.Acari (mites, ticks)",bath,Acari,"mites, ticks",,,,,,
+house.bath.Araneae (spiders),bath,Araneae,spiders,,,,,,
+house.bath.Blattodea (cockroaches),bath,Blattodea,cockroaches,,,,,,
+house.bath.Coleoptera (beetles),bath,Coleoptera,beetles,,,,,,
+house.bath.Collembola (springtails),bath,Collembola,springtails,,,,,,
+house.bath.Dermaptera (earwigs),bath,Dermaptera,earwigs,,,,,,
+house.bath.Diptera (flies),bath,Diptera,flies,,,,,,
+house.bath.Hemiptera (true bugs),bath,Hemiptera,true bugs,,,,,,
+"house.bath.Hymenoptera (bees, wasps, ants)",bath,Hymenoptera,"bees, wasps, ants",,,,,,
+"house.bath.Isopoda (woodlice, pillbugs, roly-poly's)",bath,Isopoda,"woodlice, pillbugs, roly-poly's",,,,,,
+house.bath.Isoptera (termites),bath,Isoptera,termites,,,,,,
+house.bath.Julida (millipedes),bath,Julida,millipedes,,,,,,
+"house.bath.Lepidoptera (moths, butterflies)",bath,Lepidoptera,"moths, butterflies",,,,,,
+house.bath.Microcoryphia (bristletails),bath,Microcoryphia,bristletails,,,,,,
+house.bath.Neuroptera (lacewings),bath,Neuroptera,lacewings,,,,,,
+house.bath.No specimens,bath,No specimens,NA,,,,,,
+house.bath.Opiliones (harvestmen),bath,Opiliones,harvestmen,,,,,,
+"house.bath.Orthoptera (grasshoppers, etc)",bath,Orthoptera,"grasshoppers, etc",,,,,,
+house.bath.Plecoptera (stoneflies),bath,Plecoptera,stoneflies,,,,,,
+house.bath.Polydesmida (flat-backed millipedes),bath,Polydesmida,flat-backed millipedes,,,,,,
+house.bath.Pseudoscorpiones (pseudoscorpions),bath,Pseudoscorpiones,pseudoscorpions,,,,,,
+"house.bath.Psocodea (barklice, booklice, parasitic lice)",bath,Psocodea,"barklice, booklice, parasitic lice",,,,,,
+house.bath.Scolopendromorpha (tropical centipedes),bath,Scolopendromorpha,tropical centipedes,,,,,,
+house.bath.Scutigeromorpha (house centipedes),bath,Scutigeromorpha,house centipedes,,,,,,
+house.bath.Siphonaptera (fleas),bath,Siphonaptera,fleas,,,,,,
+house.bath.Spirobolida (round-backed millipedes),bath,Spirobolida,round-backed millipedes,,,,,,
+house.bath.Thysanoptera (thrips),bath,Thysanoptera,thrips,,,,,,
+house.bath.Trichoptera (caddisflies),bath,Trichoptera,caddisflies,,,,,,
+house.bath.Zygentoma (silverfish),bath,Zygentoma,silverfish,,,,,,
+"house.bed.Acari (mites, ticks)",bed,Acari,"mites, ticks",,,,,,
+house.bed.Araneae (spiders),bed,Araneae,spiders,,,,,,
+house.bed.Blattodea (cockroaches),bed,Blattodea,cockroaches,,,,,,
+house.bed.Callipodida (crested millipedes),bed,Callipodida,crested millipedes,,,,,,
+house.bed.Coleoptera (beetles),bed,Coleoptera,beetles,,,,,,
+house.bed.Collembola (springtails),bed,Collembola,springtails,,,,,,
+house.bed.Dermaptera (earwigs),bed,Dermaptera,earwigs,,,,,,
+house.bed.Diptera (flies),bed,Diptera,flies,,,,,,
+house.bed.Hemiptera (true bugs),bed,Hemiptera,true bugs,,,,,,
+"house.bed.Hymenoptera (bees, wasps, ants)",bed,Hymenoptera,"bees, wasps, ants",,,,,,
+"house.bed.Isopoda (woodlice, pillbugs, roly-poly's)",bed,Isopoda,"woodlice, pillbugs, roly-poly's",,,,,,
+house.bed.Isoptera (termites),bed,Isoptera,termites,,,,,,
+house.bed.Julida (millipedes),bed,Julida,millipedes,,,,,,
+"house.bed.Lepidoptera (moths, butterflies)",bed,Lepidoptera,"moths, butterflies",,,,,,
+house.bed.Lithobiomorpha (stone centipedes),bed,Lithobiomorpha,stone centipedes,,,,,,
+house.bed.Microcoryphia (bristletails),bed,Microcoryphia,bristletails,,,,,,
+house.bed.Neuroptera (lacewings),bed,Neuroptera,lacewings,,,,,,
+house.bed.No specimens,bed,No specimens,NA,,,,,,
+house.bed.Opiliones (harvestmen),bed,Opiliones,harvestmen,,,,,,
+"house.bed.Orthoptera (grasshoppers, etc)",bed,Orthoptera,"grasshoppers, etc",,,,,,
+house.bed.Polydesmida (flat-backed millipedes),bed,Polydesmida,flat-backed millipedes,,,,,,
+house.bed.Pseudoscorpiones (pseudoscorpions),bed,Pseudoscorpiones,pseudoscorpions,,,,,,
+"house.bed.Psocodea (barklice, booklice, parasitic lice)",bed,Psocodea,"barklice, booklice, parasitic lice",,,,,,
+house.bed.Scolopendromorpha (tropical centipedes),bed,Scolopendromorpha,tropical centipedes,,,,,,
+house.bed.Scutigeromorpha (house centipedes),bed,Scutigeromorpha,house centipedes,,,,,,
+house.bed.Siphonaptera (fleas),bed,Siphonaptera,fleas,,,,,,
+house.bed.Thysanoptera (thrips),bed,Thysanoptera,thrips,,,,,,
+house.bed.Trichoptera (caddisflies),bed,Trichoptera,caddisflies,,,,,,
+house.bed.Zygentoma (silverfish),bed,Zygentoma,silverfish,,,,,,
+"house.common.Acari (mites, ticks)",common,Acari,"mites, ticks",,,,,,
+house.common.Araneae (spiders),common,Araneae,spiders,,,,,,
+house.common.Blattodea (cockroaches),common,Blattodea,cockroaches,,,,,,
+house.common.Callipodida (crested millipedes),common,Callipodida,crested millipedes,,,,,,
+house.common.Coleoptera (beetles),common,Coleoptera,beetles,,,,,,
+house.common.Collembola (springtails),common,Collembola,springtails,,,,,,
+house.common.Dermaptera (earwigs),common,Dermaptera,earwigs,,,,,,
+house.common.Diptera (flies),common,Diptera,flies,,,,,,
+house.common.Ephemeroptera (Mayflies),common,Ephemeroptera,Mayflies,,,,,,
+house.common.Geophilomorpha (soil centipedes),common,Geophilomorpha,soil centipedes,,,,,,
+house.common.Hemiptera (true bugs),common,Hemiptera,true bugs,,,,,,
+"house.common.Hymenoptera (bees, wasps, ants)",common,Hymenoptera,"bees, wasps, ants",,,,,,
+"house.common.Isopoda (woodlice, pillbugs, roly-poly's)",common,Isopoda,"woodlice, pillbugs, roly-poly's",,,,,,
+house.common.Isoptera (termites),common,Isoptera,termites,,,,,,
+house.common.Julida (millipedes),common,Julida,millipedes,,,,,,
+"house.common.Lepidoptera (moths, butterflies)",common,Lepidoptera,"moths, butterflies",,,,,,
+house.common.Lithobiomorpha (stone centipedes),common,Lithobiomorpha,stone centipedes,,,,,,
+house.common.Microcoryphia (bristletails),common,Microcoryphia,bristletails,,,,,,
+house.common.Neuroptera (lacewings),common,Neuroptera,lacewings,,,,,,
+house.common.Odonata (dragonflies and damselflies),common,Odonata,dragonflies and damselflies,,,,,,
+house.common.Opiliones (harvestmen),common,Opiliones,harvestmen,,,,,,
+"house.common.Orthoptera (grasshoppers, etc)",common,Orthoptera,"grasshoppers, etc",,,,,,
+house.common.Plecoptera (stoneflies),common,Plecoptera,stoneflies,,,,,,
+house.common.Polydesmida (flat-backed millipedes),common,Polydesmida,flat-backed millipedes,,,,,,
+house.common.Pseudoscorpiones (pseudoscorpions),common,Pseudoscorpiones,pseudoscorpions,,,,,,
+"house.common.Psocodea (barklice, booklice, parasitic lice)",common,Psocodea,"barklice, booklice, parasitic lice",,,,,,
+house.common.Scolopendromorpha (tropical centipedes),common,Scolopendromorpha,tropical centipedes,,,,,,
+house.common.Scutigeromorpha (house centipedes),common,Scutigeromorpha,house centipedes,,,,,,
+house.common.Siphonaptera (fleas),common,Siphonaptera,fleas,,,,,,
+house.common.Spirobolida (round-backed millipedes),common,Spirobolida,round-backed millipedes,,,,,,
+house.common.Thysanoptera (thrips),common,Thysanoptera,thrips,,,,,,
+house.common.Trichoptera (caddisflies),common,Trichoptera,caddisflies,,,,,,
+house.common.Un ID order,common,Un ID order,NA,,,,,,
+house.common.Zygentoma (silverfish),common,Zygentoma,silverfish,,,,,,
+"house.kitchen.Acari (mites, ticks)",kitchen,Acari,"mites, ticks",,,,,,
+house.kitchen.Araneae (spiders),kitchen,Araneae,spiders,,,,,,
+house.kitchen.Blattodea (cockroaches),kitchen,Blattodea,cockroaches,,,,,,
+house.kitchen.Coleoptera (beetles),kitchen,Coleoptera,beetles,,,,,,
+house.kitchen.Collembola (springtails),kitchen,Collembola,springtails,,,,,,
+house.kitchen.Decapoda (crustaceans),kitchen,Decapoda,crustaceans,,,,,,
+house.kitchen.Dermaptera (earwigs),kitchen,Dermaptera,earwigs,,,,,,
+house.kitchen.Diplopoda (millipedes),kitchen,Diplopoda,millipedes,,,,,,
+house.kitchen.Diptera (flies),kitchen,Diptera,flies,,,,,,
+house.kitchen.Hemiptera (true bugs),kitchen,Hemiptera,true bugs,,,,,,
+"house.kitchen.Hymenoptera (bees, wasps, ants)",kitchen,Hymenoptera,"bees, wasps, ants",,,,,,
+"house.kitchen.Isopoda (woodlice, pillbugs, roly-poly's)",kitchen,Isopoda,"woodlice, pillbugs, roly-poly's",,,,,,
+house.kitchen.Isoptera (termites),kitchen,Isoptera,termites,,,,,,
+"house.kitchen.Lepidoptera (moths, butterflies)",kitchen,Lepidoptera,"moths, butterflies",,,,,,
+house.kitchen.Lithobiomorpha (stone centipedes),kitchen,Lithobiomorpha,stone centipedes,,,,,,
+house.kitchen.Microcoryphia (bristletails),kitchen,Microcoryphia,bristletails,,,,,,
+house.kitchen.Neuroptera (lacewings),kitchen,Neuroptera,lacewings,,,,,,
+"house.kitchen.Orthoptera (grasshoppers, etc)",kitchen,Orthoptera,"grasshoppers, etc",,,,,,
+house.kitchen.Polydesmida (flat-backed millipedes),kitchen,Polydesmida,flat-backed millipedes,,,,,,
+house.kitchen.Pseudoscorpiones (pseudoscorpions),kitchen,Pseudoscorpiones,pseudoscorpions,,,,,,
+"house.kitchen.Psocodea (barklice, booklice, parasitic lice)",kitchen,Psocodea,"barklice, booklice, parasitic lice",,,,,,
+house.kitchen.Scutigeromorpha (house centipedes),kitchen,Scutigeromorpha,house centipedes,,,,,,
+house.kitchen.Siphonaptera (fleas),kitchen,Siphonaptera,fleas,,,,,,
+house.kitchen.Spirobolida (round-backed millipedes),kitchen,Spirobolida,round-backed millipedes,,,,,,
+house.kitchen.Thysanoptera (thrips),kitchen,Thysanoptera,thrips,,,,,,
+house.kitchen.Zygentoma (silverfish),kitchen,Zygentoma,silverfish,,,,,,
+"house.other.Acari (mites, ticks)",other,Acari,"mites, ticks",,,,,,
+house.other.Araneae (spiders),other,Araneae,spiders,,,,,,
+house.other.Blattodea (cockroaches),other,Blattodea,cockroaches,,,,,,
+house.other.Coleoptera (beetles),other,Coleoptera,beetles,,,,,,
+house.other.Collembola (springtails),other,Collembola,springtails,,,,,,
+house.other.Diplopoda (millipedes),other,Diplopoda,millipedes,,,,,,
+house.other.Diptera (flies),other,Diptera,flies,,,,,,
+house.other.Hemiptera (true bugs),other,Hemiptera,true bugs,,,,,,
+"house.other.Hymenoptera (bees, wasps, ants)",other,Hymenoptera,"bees, wasps, ants",,,,,,
+"house.other.Isopoda (woodlice, pillbugs, roly-poly's)",other,Isopoda,"woodlice, pillbugs, roly-poly's",,,,,,
+house.other.Isoptera (termites),other,Isoptera,termites,,,,,,
+"house.other.Lepidoptera (moths, butterflies)",other,Lepidoptera,"moths, butterflies",,,,,,
+"house.other.Orthoptera (grasshoppers, etc)",other,Orthoptera,"grasshoppers, etc",,,,,,
+house.other.Polydesmida (flat-backed millipedes),other,Polydesmida,flat-backed millipedes,,,,,,
+"house.other.Psocodea (barklice, booklice, parasitic lice)",other,Psocodea,"barklice, booklice, parasitic lice",,,,,,
+house.other.Thysanoptera (thrips),other,Thysanoptera,thrips,,,,,,
+house.other.Zygentoma (silverfish),other,Zygentoma,silverfish,,,,,,
+house.attic,attic,,,,,,,,
+house.basement,basement,,,,,,,,
+house.bath,bath,,,,,,,,
+house.bed,bed,,,,,,,,
+house.common,common,,,,,,,,
+house.kitchen,kitchen,,,,,,,,
+house.other,other,,,,,,,,
+house,,,,,,,,,
