@@ -3,6 +3,18 @@ import styled from 'styled-components';
 import { format } from 'd3';
 import dl from 'datalib';
 import joins from 'lodash-joins';
+import ExternalLink from './icon_external_link.png';
+
+const SummaryBar = styled.div`
+    position: absolute;
+    top: 5px;
+    left: 65px;
+    width: ${props => (+props.percentage/100 * 50)}px;
+    height: 8px;
+    background-color: #ccc;
+    border: 1px solid #bbb;
+    box-sizing: border-box;
+`
 
 const StyledTable = styled.table`
     table-layout: fixed;
@@ -39,11 +51,28 @@ const StyledTable = styled.table`
         text-align: right;
 
         &.summary__room {
-            text-align: left
+            text-align: left;
+            position: relative;
         }
 
         &:first-child {
             padding-left: 5px;
+        }
+    }
+
+    tfoot {
+        font-size: 10px;
+        td {
+            text-align: left;
+            padding-top: 2px;
+
+            &:first-child {
+                padding-left: 0;
+            }
+
+            a img {
+                max-height: 9px;
+            }
         }
     }
 `;
@@ -130,21 +159,27 @@ class SummaryTable extends Component {
                         <thead>
                             <tr>
                                 <td className='summary__room'></td>
+                                <td>%</td>
                                 <td>{this.props.variableValue}</td>
                                 <td>total</td>
-                                <td>%</td>
                             </tr>
                         </thead>
                         <tbody>
                             {summaryData.map(row => {
                                 return (<tr key={row.room}>
-                                            <td className='summary__room'>{row.room}</td>
+                                            <td className='summary__room'>{row.room}<SummaryBar percentage={row.percentage} /></td>
+                                            <td className='summary__percentage'>{format(",.1f")(row.percentage)}</td>
                                             <td className='summary__variable'>{format(",d")(row.focused_sum)}</td>
                                             <td className='summary__total'>{format(",d")(row.total_sum)}</td>
-                                            <td className='summary__percentage'>{format(",.1f")(row.percentage)}</td>
                                         </tr>)})
                             }
                         </tbody>
+                        <tfoot>
+                            <tr>
+                                <td colSpan={4}><strong>NB</strong>: this table shows the <em>total number of rooms</em> with a bug type (not the total number of
+                                    individuals collected in sampling). It corresponds to <a href="https://peerj.com/articles/1582/#table-1" target="_blank">table 1<img src={ExternalLink} alt=""/></a> in the study.</td>
+                            </tr>
+                        </tfoot>
                     </StyledTable>
             )
         } else {

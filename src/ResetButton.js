@@ -4,6 +4,7 @@ import styled from 'styled-components';
 import { actions } from './store.js';
 
 const Button = styled.button`
+    background-color: white;
     color: #333;
     appearence: none;
     border: 1px solid #333;
